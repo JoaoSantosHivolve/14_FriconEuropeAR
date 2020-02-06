@@ -1,0 +1,4255 @@
+<?xml version ="1.0" encoding="UTF-8"?>
+<FridgesData>
+  <FridgesArray>
+
+    <Fridge FridgeName ="SMR CLASSICA 1700">
+      <GeneralInfo>LINHA SMR CLASSIC</GeneralInfo>
+      <LanguagesArray>
+        <Language Language ="Portugues">
+          <RowsCount>14</RowsCount>
+          <ColumnsCount>5</ColumnsCount>
+          <RowsArray>
+            <Row Index ="0">
+              <RowElements>
+                <Element Column=""><Text>INFORMAÇÂO GERAL</Text></Element>
+                <Element Column=""><Text>Descongelação Manual (MD)</Text></Element>
+                <Element Column=""><Text>Descongelação Automática (AD)</Text></Element>
+                <Element Column=""><Text>Compressor Velocidade Variável (ADVS)</Text></Element>
+                <Element Column=""><Text>Compressor Velocidade Variável (VCC) 
+                  2Versões: Chiller(+)* e Freezer(-)*</Text></Element>
+              </RowElements>
+            </Row>
+            <Row Index ="1">
+              <RowElements>
+                <Element Column=""><Text>Largura Exterior</Text></Element>
+                <Element Column=""><Text>1700 mm</Text></Element>
+                <Element Column=""><Text>1700 mm</Text></Element>
+                <Element Column=""><Text>1700 mm</Text></Element>
+                <Element Column=""><Text>1700 mm</Text></Element>
+              </RowElements>
+            </Row>
+            <Row Index ="2">
+              <RowElements>
+                <Element Column=""><Text>Altura Exterior</Text></Element>
+                <Element Column=""><Text>980 mm</Text></Element>
+                <Element Column=""><Text>980 mm</Text></Element>
+                <Element Column=""><Text>980 mm</Text></Element>
+                <Element Column=""><Text>980 mm</Text></Element>
+              </RowElements>
+            </Row>
+            <Row Index ="3">
+              <RowElements>
+                <Element Column=""><Text>Profundidade Exterior</Text></Element>
+                <Element Column=""><Text>850 mm</Text></Element>
+                <Element Column=""><Text>850 mm</Text></Element>
+                <Element Column=""><Text>850 mm</Text></Element>
+                <Element Column=""><Text>850 mm</Text></Element>
+              </RowElements>
+            </Row>
+            <Row Index ="4">
+              <RowElements>
+                <Element Column=""><Text>Capacidade Bruta</Text></Element>
+                <Element Column=""><Text>653 Lts</Text></Element>
+                <Element Column=""><Text>653 Lts</Text></Element>
+                <Element Column=""><Text>653 Lts</Text></Element>
+                <Element Column=""><Text>653 Lts</Text></Element>
+              </RowElements>
+            </Row>
+            <Row Index ="5">
+              <RowElements>
+                <Element Column=""><Text>Capacidade Líquida</Text></Element>
+                <Element Column=""><Text>602 Lts</Text></Element>
+                <Element Column=""><Text>602 Lts</Text></Element>
+                <Element Column=""><Text>602 Lts</Text></Element>
+                <Element Column=""><Text>420 Lts (+)*
+                  602 Lts (-)*</Text></Element>
+              </RowElements>
+            </Row>
+            <Row Index ="6">
+              <RowElements>
+                <Element Column=""><Text>Área de Exposição</Text></Element>
+                <Element Column=""><Text>0,99 m2</Text></Element>
+                <Element Column=""><Text>0,99 m2</Text></Element>
+                <Element Column=""><Text>0,99 m2</Text></Element>
+                <Element Column=""><Text>0,99 m2</Text></Element>
+              </RowElements>
+            </Row>
+            <Row Index ="7">
+              <RowElements>
+                <Element Column=""><Text>Gás Refrigerante</Text></Element>
+                <Element Column=""><Text>R290</Text></Element>
+                <Element Column=""><Text>R290</Text></Element>
+                <Element Column=""><Text>R290</Text></Element>
+                <Element Column=""><Text>R290</Text></Element>
+              </RowElements>
+            </Row>
+            <Row Index ="8">
+              <RowElements>
+                <Element Column=""><Text>Classe Climática</Text></Element>
+                <Element Column=""><Text>4L1</Text></Element>
+                <Element Column=""><Text>3L1</Text></Element>
+                <Element Column=""><Text>3L1</Text></Element>
+                <Element Column=""><Text>4M1 (+)* 3L1 (-)*</Text></Element>
+              </RowElements>
+            </Row>
+            <Row Index ="9">
+              <RowElements>
+                <Element Column=""><Text>Características Energéticas</Text></Element>
+                <Element Column=""><Text>220-240V / 50Hz 2.6 A 349 W</Text></Element>
+                <Element Column=""><Text>220-240V / 50Hz 2.71 A 365 W</Text></Element>
+                <Element Column=""><Text>220-240V/ 50-60Hz  1.82 A 405 W</Text></Element>
+                <Element Column=""><Text>220-240V / 50-60Hz  2.68 A 342 W (+)*
+                  220-240V / 50-60Hz  2.82 A 369 W (-)*</Text></Element>
+              </RowElements>
+            </Row>
+            <Row Index ="10">
+              <RowElements>
+                <Element Column=""><Text>Consumo Energético</Text></Element>
+                <Element Column=""><Text>8.5 kWh/24hr</Text></Element>
+                <Element Column=""><Text>8.3 kWh/24hr</Text></Element>
+                <Element Column=""><Text>6.3 kWh/24hr</Text></Element>
+                <Element Column=""><Text>3.0 kWh/24hr (+)*
+                  6.1 kWh/24hr (-)*</Text></Element>
+              </RowElements>
+            </Row>
+            <Row Index ="11">
+              <RowElements>
+                <Element Column=""><Text>Espessura de Isolamento</Text></Element>
+                <Element Column=""><Text>70 mm</Text></Element>
+                <Element Column=""><Text>70 mm</Text></Element>
+                <Element Column=""><Text>70 mm</Text></Element>
+                <Element Column=""><Text>70 mm</Text></Element>
+              </RowElements>
+            </Row>
+            <Row Index ="12">
+              <RowElements>
+                <Element Column=""><Text>Tipo de Tampa</Text></Element>
+                <Element Column=""><Text>Tampa – Vidro</Text></Element>
+                <Element Column=""><Text>Tampa – Vidro</Text></Element>
+                <Element Column=""><Text>Tampa – Vidro</Text></Element>
+                <Element Column=""><Text>Tampa – Vidro</Text></Element>
+              </RowElements>
+            </Row>
+            <Row Index ="13">
+              <RowElements>
+                <Element Column=""><Text>Temperatura de Funcionamento</Text></Element>
+                <Element Column=""><Text>-24ºC to -16ºC</Text></Element>
+                <Element Column=""><Text>-24ºC to -16ºC</Text></Element>
+                <Element Column=""><Text>-24ºC to -16ºC</Text></Element>
+                <Element Column=""><Text>0ºC to 8ºC  (+)*
+                  -24ºC to -16ºC  (-)*</Text></Element>
+              </RowElements>
+            </Row>
+          </RowsArray>
+        </Language>
+        <Language Language ="English">
+          <RowsCount>14</RowsCount>
+          <ColumnsCount>5</ColumnsCount>
+          <RowsArray>
+            <Row Index ="0">
+              <RowElements>
+                <Element Column="">
+                  <Text>INFORMAÇÂO GERAL</Text>
+                </Element>
+                <Element Column="">
+                  <Text>Descongelação Manual (MD)</Text>
+                </Element>
+                <Element Column="">
+                  <Text>Descongelação Automática (AD)</Text>
+                </Element>
+                <Element Column="">
+                  <Text>Compressor Velocidade Variável (ADVS)</Text>
+                </Element>
+                <Element Column="">
+                  <Text>
+                    Compressor Velocidade Variável (VCC)
+                    2Versões: Chiller(+)* e Freezer(-)*
+                  </Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="1">
+              <RowElements>
+                <Element Column="">
+                  <Text>Largura Exterior</Text>
+                </Element>
+                <Element Column="">
+                  <Text>1700 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>1700 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>1700 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>1700 mm</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="2">
+              <RowElements>
+                <Element Column="">
+                  <Text>Altura Exterior</Text>
+                </Element>
+                <Element Column="">
+                  <Text>980 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>980 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>980 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>980 mm</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="3">
+              <RowElements>
+                <Element Column="">
+                  <Text>Profundidade Exterior</Text>
+                </Element>
+                <Element Column="">
+                  <Text>850 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>850 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>850 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>850 mm</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="4">
+              <RowElements>
+                <Element Column="">
+                  <Text>Capacidade Bruta</Text>
+                </Element>
+                <Element Column="">
+                  <Text>653 Lts</Text>
+                </Element>
+                <Element Column="">
+                  <Text>653 Lts</Text>
+                </Element>
+                <Element Column="">
+                  <Text>653 Lts</Text>
+                </Element>
+                <Element Column="">
+                  <Text>653 Lts</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="5">
+              <RowElements>
+                <Element Column="">
+                  <Text>Capacidade Líquida</Text>
+                </Element>
+                <Element Column="">
+                  <Text>602 Lts</Text>
+                </Element>
+                <Element Column="">
+                  <Text>602 Lts</Text>
+                </Element>
+                <Element Column="">
+                  <Text>602 Lts</Text>
+                </Element>
+                <Element Column="">
+                  <Text>
+                    420 Lts (+)*
+                    602 Lts (-)*
+                  </Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="6">
+              <RowElements>
+                <Element Column="">
+                  <Text>Área de Exposição</Text>
+                </Element>
+                <Element Column="">
+                  <Text>0,99 m2</Text>
+                </Element>
+                <Element Column="">
+                  <Text>0,99 m2</Text>
+                </Element>
+                <Element Column="">
+                  <Text>0,99 m2</Text>
+                </Element>
+                <Element Column="">
+                  <Text>0,99 m2</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="7">
+              <RowElements>
+                <Element Column="">
+                  <Text>Gás Refrigerante</Text>
+                </Element>
+                <Element Column="">
+                  <Text>R290</Text>
+                </Element>
+                <Element Column="">
+                  <Text>R290</Text>
+                </Element>
+                <Element Column="">
+                  <Text>R290</Text>
+                </Element>
+                <Element Column="">
+                  <Text>R290</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="8">
+              <RowElements>
+                <Element Column="">
+                  <Text>Classe Climática</Text>
+                </Element>
+                <Element Column="">
+                  <Text>4L1</Text>
+                </Element>
+                <Element Column="">
+                  <Text>3L1</Text>
+                </Element>
+                <Element Column="">
+                  <Text>3L1</Text>
+                </Element>
+                <Element Column="">
+                  <Text>4M1 (+)* 3L1 (-)*</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="9">
+              <RowElements>
+                <Element Column="">
+                  <Text>Características Energéticas</Text>
+                </Element>
+                <Element Column="">
+                  <Text>220-240V / 50Hz 2.6 A 349 W</Text>
+                </Element>
+                <Element Column="">
+                  <Text>220-240V / 50Hz 2.71 A 365 W</Text>
+                </Element>
+                <Element Column="">
+                  <Text>220-240V/ 50-60Hz  1.82 A 405 W</Text>
+                </Element>
+                <Element Column="">
+                  <Text>
+                    220-240V / 50-60Hz  2.68 A 342 W (+)*
+                    220-240V / 50-60Hz  2.82 A 369 W (-)*
+                  </Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="10">
+              <RowElements>
+                <Element Column="">
+                  <Text>Consumo Energético</Text>
+                </Element>
+                <Element Column="">
+                  <Text>8.5 kWh/24hr</Text>
+                </Element>
+                <Element Column="">
+                  <Text>8.3 kWh/24hr</Text>
+                </Element>
+                <Element Column="">
+                  <Text>6.3 kWh/24hr</Text>
+                </Element>
+                <Element Column="">
+                  <Text>
+                    3.0 kWh/24hr (+)*
+                    6.1 kWh/24hr (-)*
+                  </Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="11">
+              <RowElements>
+                <Element Column="">
+                  <Text>Espessura de Isolamento</Text>
+                </Element>
+                <Element Column="">
+                  <Text>70 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>70 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>70 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>70 mm</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="12">
+              <RowElements>
+                <Element Column="">
+                  <Text>Tipo de Tampa</Text>
+                </Element>
+                <Element Column="">
+                  <Text>Tampa – Vidro</Text>
+                </Element>
+                <Element Column="">
+                  <Text>Tampa – Vidro</Text>
+                </Element>
+                <Element Column="">
+                  <Text>Tampa – Vidro</Text>
+                </Element>
+                <Element Column="">
+                  <Text>Tampa – Vidro</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="13">
+              <RowElements>
+                <Element Column="">
+                  <Text>Temperatura de Funcionamento</Text>
+                </Element>
+                <Element Column="">
+                  <Text>-24ºC to -16ºC</Text>
+                </Element>
+                <Element Column="">
+                  <Text>-24ºC to -16ºC</Text>
+                </Element>
+                <Element Column="">
+                  <Text>-24ºC to -16ºC</Text>
+                </Element>
+                <Element Column="">
+                  <Text>
+                    0ºC to 8ºC  (+)*
+                    -24ºC to -16ºC  (-)*
+                  </Text>
+                </Element>
+              </RowElements>
+            </Row>
+          </RowsArray>
+        </Language>
+      </LanguagesArray>
+    </Fridge>
+
+    <Fridge FridgeName ="SMR CLASSICA 1900">
+      <GeneralInfo>LINHA SMR CLASSIC</GeneralInfo>
+      <LanguagesArray>
+        <Language Language ="Portugues">
+          <RowsCount>14</RowsCount>
+          <ColumnsCount>5</ColumnsCount>
+          <RowsArray>
+            <Row Index ="0">
+              <RowElements>
+                <Element Column="0">
+                  <Text>INFORMAÇÂO GERAL</Text>
+                </Element>
+                <Element Column="1">
+                  <Text>Descongelação Manual (MD)</Text>
+                </Element>
+                <Element Column="2">
+                  <Text>Descongelação Automática (AD)</Text>
+                </Element>
+                <Element Column="3">
+                  <Text>Compressor Velocidade Variável (ADVS)</Text>
+                </Element>
+                <Element Column="4">
+                  <Text>
+                    Compressor Velocidade Variável (VCC)
+                    2Versões: Chiller(+)* e Freezer(-)*
+                  </Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="1">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Largura Exterior</Text>
+                </Element>
+                <Element Column="">
+                  <Text>1940 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>1940 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>1940 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>1940 mm</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="2">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Altura Exterior</Text>
+                </Element>
+                <Element Column="">
+                  <Text>880 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>880 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>880 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>880 mm</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="3">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Profundidade Exterior</Text>
+                </Element>
+                <Element Column="">
+                  <Text>850 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>850 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>850 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>850 mm</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="4">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Capacidade Bruta</Text>
+                </Element>
+                <Element Column="">
+                  <Text>689 Lts</Text>
+                </Element>
+                <Element Column="">
+                  <Text>689 Lts</Text>
+                </Element>
+                <Element Column="">
+                  <Text>689 Lts</Text>
+                </Element>
+                <Element Column="">
+                  <Text>689 Lts</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="5">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Capacidade Líquida</Text>
+                </Element>
+                <Element Column="">
+                  <Text>619 Lts</Text>
+                </Element>
+                <Element Column="">
+                  <Text>619 Lts</Text>
+                </Element>
+                <Element Column="">
+                  <Text>619 Lts</Text>
+                </Element>
+                <Element Column="">
+                  <Text>
+                    391 Lts (+)*
+
+                    619 Lts (-)*
+                  </Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="6">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Área de Exposição</Text>
+                </Element>
+                <Element Column="">
+                  <Text>0,98 m2</Text>
+                </Element>
+                <Element Column="">
+                  <Text>0,98 m2</Text>
+                </Element>
+                <Element Column="">
+                  <Text>0,98 m2</Text>
+                </Element>
+                <Element Column="">
+                  <Text>0,98 m2</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="7">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Gás Refrigerante</Text>
+                </Element>
+                <Element Column="">
+                  <Text>R290</Text>
+                </Element>
+                <Element Column="">
+                  <Text>R290</Text>
+                </Element>
+                <Element Column="">
+                  <Text>R290</Text>
+                </Element>
+                <Element Column="">
+                  <Text>R290</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="8">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Classe Climática</Text>
+                </Element>
+                <Element Column="">
+                  <Text>4L1</Text>
+                </Element>
+                <Element Column="">
+                  <Text>3L1</Text>
+                </Element>
+                <Element Column="">
+                  <Text>3L1</Text>
+                </Element>
+                <Element Column="">
+                  <Text>4M1 (+)* 3L1 (-)*</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="9">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Características Energéticas</Text>
+                </Element>
+                <Element Column="">
+                  <Text>220-240V / 50Hz  2.33 A 396 W</Text>
+                </Element>
+                <Element Column="">
+                  <Text>220-240V / 50Hz 2.71 A 365 W</Text>
+                </Element>
+                <Element Column="">
+                  <Text>220-240V / 50-60Hz  2.45 A  540 W</Text>
+                </Element>
+                <Element Column="">
+                  <Text>
+                    220-240V / 50-60Hz  2.71 A  345 W (+)*
+                    220-240V / 50-60Hz  3.02 A  515 W (-)*
+                  </Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="10">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Consumo Energético</Text>
+                </Element>
+                <Element Column="">
+                  <Text>9.3 kWh/24hr</Text>
+                </Element>
+                <Element Column="">
+                  <Text>8.7 kWh/24hr</Text>
+                </Element>
+                <Element Column="">
+                  <Text>6.7 kWh/24hr</Text>
+                </Element>
+                <Element Column="">
+                  <Text>
+                    3.0 kWh/24hr (+)*
+                    6.5 kWh/24hr (-)*
+                  </Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="11">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Espessura de Isolamento</Text>
+                </Element>
+                <Element Column="">
+                  <Text>70 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>70 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>70 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>70 mm</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="12">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Tipo de Tampa</Text>
+                </Element>
+                <Element Column="">
+                  <Text>Tampa – Vidro</Text>
+                </Element>
+                <Element Column="">
+                  <Text>Tampa – Vidro</Text>
+                </Element>
+                <Element Column="">
+                  <Text>Tampa – Vidro</Text>
+                </Element>
+                <Element Column="">
+                  <Text>Tampa – Vidro</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="13">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Temperatura de Funcionamento</Text>
+                </Element>
+                <Element Column="">
+                  <Text>-24ºC to -16ºC</Text>
+                </Element>
+                <Element Column="">
+                  <Text>-24ºC to -16ºC</Text>
+                </Element>
+                <Element Column="">
+                  <Text>-24ºC to -16ºC</Text>
+                </Element>
+                <Element Column="">
+                  <Text>
+                    0ºC to 8ºC  (+)*
+                    -24ºC to -16ºC  (-)*
+                  </Text>
+                </Element>
+              </RowElements>
+            </Row>
+          </RowsArray>
+        </Language>
+        <Language Language ="English">
+          <RowsCount>14</RowsCount>
+          <ColumnsCount>5</ColumnsCount>
+          <RowsArray>
+            <Row Index ="0">
+              <RowElements>
+                <Element Column="0">
+                  <Text>INFORMAÇÂO GERAL</Text>
+                </Element>
+                <Element Column="1">
+                  <Text>Descongelação Manual (MD)</Text>
+                </Element>
+                <Element Column="2">
+                  <Text>Descongelação Automática (AD)</Text>
+                </Element>
+                <Element Column="3">
+                  <Text>Compressor Velocidade Variável (ADVS)</Text>
+                </Element>
+                <Element Column="4">
+                  <Text>
+                    Compressor Velocidade Variável (VCC)
+                    2Versões: Chiller(+)* e Freezer(-)*
+                  </Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="1">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Largura Exterior</Text>
+                </Element>
+                <Element Column="">
+                  <Text>1940 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>1940 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>1940 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>1940 mm</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="2">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Altura Exterior</Text>
+                </Element>
+                <Element Column="">
+                  <Text>880 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>880 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>880 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>880 mm</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="3">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Profundidade Exterior</Text>
+                </Element>
+                <Element Column="">
+                  <Text>850 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>850 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>850 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>850 mm</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="4">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Capacidade Bruta</Text>
+                </Element>
+                <Element Column="">
+                  <Text>689 Lts</Text>
+                </Element>
+                <Element Column="">
+                  <Text>689 Lts</Text>
+                </Element>
+                <Element Column="">
+                  <Text>689 Lts</Text>
+                </Element>
+                <Element Column="">
+                  <Text>689 Lts</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="5">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Capacidade Líquida</Text>
+                </Element>
+                <Element Column="">
+                  <Text>619 Lts</Text>
+                </Element>
+                <Element Column="">
+                  <Text>619 Lts</Text>
+                </Element>
+                <Element Column="">
+                  <Text>619 Lts</Text>
+                </Element>
+                <Element Column="">
+                  <Text>
+                    391 Lts (+)*
+
+                    619 Lts (-)*
+                  </Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="6">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Área de Exposição</Text>
+                </Element>
+                <Element Column="">
+                  <Text>0,98 m2</Text>
+                </Element>
+                <Element Column="">
+                  <Text>0,98 m2</Text>
+                </Element>
+                <Element Column="">
+                  <Text>0,98 m2</Text>
+                </Element>
+                <Element Column="">
+                  <Text>0,98 m2</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="7">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Gás Refrigerante</Text>
+                </Element>
+                <Element Column="">
+                  <Text>R290</Text>
+                </Element>
+                <Element Column="">
+                  <Text>R290</Text>
+                </Element>
+                <Element Column="">
+                  <Text>R290</Text>
+                </Element>
+                <Element Column="">
+                  <Text>R290</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="8">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Classe Climática</Text>
+                </Element>
+                <Element Column="">
+                  <Text>4L1</Text>
+                </Element>
+                <Element Column="">
+                  <Text>3L1</Text>
+                </Element>
+                <Element Column="">
+                  <Text>3L1</Text>
+                </Element>
+                <Element Column="">
+                  <Text>4M1 (+)* 3L1 (-)*</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="9">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Características Energéticas</Text>
+                </Element>
+                <Element Column="">
+                  <Text>220-240V / 50Hz  2.33 A 396 W</Text>
+                </Element>
+                <Element Column="">
+                  <Text>220-240V / 50Hz 2.71 A 365 W</Text>
+                </Element>
+                <Element Column="">
+                  <Text>220-240V / 50-60Hz  2.45 A  540 W</Text>
+                </Element>
+                <Element Column="">
+                  <Text>
+                    220-240V / 50-60Hz  2.71 A  345 W (+)*
+                    220-240V / 50-60Hz  3.02 A  515 W (-)*
+                  </Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="10">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Consumo Energético</Text>
+                </Element>
+                <Element Column="">
+                  <Text>9.3 kWh/24hr</Text>
+                </Element>
+                <Element Column="">
+                  <Text>8.7 kWh/24hr</Text>
+                </Element>
+                <Element Column="">
+                  <Text>6.7 kWh/24hr</Text>
+                </Element>
+                <Element Column="">
+                  <Text>
+                    3.0 kWh/24hr (+)*
+                    6.5 kWh/24hr (-)*
+                  </Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="11">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Espessura de Isolamento</Text>
+                </Element>
+                <Element Column="">
+                  <Text>70 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>70 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>70 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>70 mm</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="12">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Tipo de Tampa</Text>
+                </Element>
+                <Element Column="">
+                  <Text>Tampa – Vidro</Text>
+                </Element>
+                <Element Column="">
+                  <Text>Tampa – Vidro</Text>
+                </Element>
+                <Element Column="">
+                  <Text>Tampa – Vidro</Text>
+                </Element>
+                <Element Column="">
+                  <Text>Tampa – Vidro</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="13">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Temperatura de Funcionamento</Text>
+                </Element>
+                <Element Column="">
+                  <Text>-24ºC to -16ºC</Text>
+                </Element>
+                <Element Column="">
+                  <Text>-24ºC to -16ºC</Text>
+                </Element>
+                <Element Column="">
+                  <Text>-24ºC to -16ºC</Text>
+                </Element>
+                <Element Column="">
+                  <Text>
+                    0ºC to 8ºC  (+)*
+                    -24ºC to -16ºC  (-)*
+                  </Text>
+                </Element>
+              </RowElements>
+            </Row>
+          </RowsArray>
+        </Language>
+      </LanguagesArray>
+    </Fridge>
+
+    <Fridge FridgeName ="COOL CELL">
+      <GeneralInfo>LINHA SMR LSL</GeneralInfo>
+      <LanguagesArray>
+        <Language Language ="Portugues">
+          <RowsCount>14</RowsCount>
+          <ColumnsCount>2</ColumnsCount>
+          <RowsArray>
+            <Row Index ="0">
+              <RowElements>
+                <Element Column = "0">
+                  <Text>Informação geral</Text>
+                </Element>
+                <Element Column = "1">
+                  <Text></Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="1">
+              <RowElements>
+                <Element Column ="0">
+                  <Text>Largura Exterior</Text>
+                </Element>
+                <Element Column ="1">
+                  <Text>600 mm</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="2">
+              <RowElements>
+                <Element Column ="0">
+                  <Text>Altura Exterior</Text>
+                </Element>
+                <Element Column ="1">
+                  <Text>2020 mm</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="3">
+              <RowElements>
+                <Element Column ="0">
+                  <Text>Profundidade Exterior</Text>
+                </Element>
+                <Element Column ="1">
+                  <Text>680 mm</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="4">
+              <RowElements>
+                <Element Column ="0">
+                  <Text>Capacidade Bruta</Text>
+                </Element>
+                <Element Column ="1">
+                  <Text>288 Lts</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="5">
+              <RowElements>
+                <Element Column ="0">
+                  <Text>Capacidade Líquida</Text>
+                </Element>
+                <Element Column ="1">
+                  <Text>193 Lts</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="6">
+              <RowElements>
+                <Element Column ="0">
+                  <Text>Área de Exposição</Text>
+                </Element>
+                <Element Column ="1">
+                  <Text>0.5m2</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="7">
+              <RowElements>
+                <Element Column ="0">
+                  <Text>Gás Refrigerante</Text>
+                </Element>
+                <Element Column ="1">
+                  <Text>R290</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="8">
+              <RowElements>
+                <Element Column ="0">
+                  <Text>Classe Climática</Text>
+                </Element>
+                <Element Column ="1">
+                  <Text>3M1</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="9">
+              <RowElements>
+                <Element Column ="0">
+                  <Text>Características Energéticas</Text>
+                </Element>
+                <Element Column ="1">
+                  <Text>220-240V/50Hz
+5.67 A 1227 W
+                  </Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="10">
+              <RowElements>
+                <Element Column ="0">
+                  <Text>Consumo Elétrico</Text>
+                </Element>
+                <Element Column ="1">
+                  <Text>18.8 kWh/24hr</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="11">
+              <RowElements>
+                <Element Column ="0">
+                  <Text>Espessura Isolamento</Text>
+                </Element>
+                <Element Column ="1">
+                  <Text>55 mm</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="12">
+              <RowElements>
+                <Element Column ="0">
+                  <Text>Tipo de Tampas</Text>
+                </Element>
+                <Element Column ="1">
+                  <Text>S/Tampa</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="13">
+              <RowElements>
+                <Element Column ="0">
+                  <Text>Temperatura de Funcionamento</Text>
+                </Element>
+                <Element Column ="1">
+                  <Text>0 ºC / 8 ºC</Text>
+                </Element>
+              </RowElements>
+            </Row>
+          </RowsArray>
+        </Language>
+        <Language Language ="English">
+          <RowsCount>14</RowsCount>
+          <ColumnsCount>2</ColumnsCount>
+          <RowsArray>
+            <Row Index ="0">
+              <RowElements>
+                <Element Column = "0">
+                  <Text>General Info</Text>
+                </Element>
+                <Element Column = "1">
+                  <Text></Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="1">
+              <RowElements>
+                <Element Column ="0">
+                  <Text>Largura Exterior</Text>
+                </Element>
+                <Element Column ="1">
+                  <Text>600 mm</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="2">
+              <RowElements>
+                <Element Column ="0">
+                  <Text>Altura Exterior</Text>
+                </Element>
+                <Element Column ="1">
+                  <Text>2020 mm</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="3">
+              <RowElements>
+                <Element Column ="0">
+                  <Text>Profundidade Exterior</Text>
+                </Element>
+                <Element Column ="1">
+                  <Text>680 mm</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="4">
+              <RowElements>
+                <Element Column ="0">
+                  <Text>Capacidade Bruta</Text>
+                </Element>
+                <Element Column ="1">
+                  <Text>288 Lts</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="5">
+              <RowElements>
+                <Element Column ="0">
+                  <Text>Capacidade Líquida</Text>
+                </Element>
+                <Element Column ="1">
+                  <Text>193 Lts</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="6">
+              <RowElements>
+                <Element Column ="0">
+                  <Text>Área de Exposição</Text>
+                </Element>
+                <Element Column ="1">
+                  <Text>0.5m2</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="7">
+              <RowElements>
+                <Element Column ="0">
+                  <Text>Gás Refrigerante</Text>
+                </Element>
+                <Element Column ="1">
+                  <Text>R290</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="8">
+              <RowElements>
+                <Element Column ="0">
+                  <Text>Classe Climática</Text>
+                </Element>
+                <Element Column ="1">
+                  <Text>3M1</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="9">
+              <RowElements>
+                <Element Column ="0">
+                  <Text>Características Energéticas</Text>
+                </Element>
+                <Element Column ="1">
+                  <Text>220-240V/50Hz
+5.67 A 1227 W
+                  </Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="10">
+              <RowElements>
+                <Element Column ="0">
+                  <Text>Consumo Elétrico</Text>
+                </Element>
+                <Element Column ="1">
+                  <Text>18.8 kWh/24hr</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="11">
+              <RowElements>
+                <Element Column ="0">
+                  <Text>Espessura Isolamento</Text>
+                </Element>
+                <Element Column ="1">
+                  <Text>55 mm</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="12">
+              <RowElements>
+                <Element Column ="0">
+                  <Text>Tipo de Tampas</Text>
+                </Element>
+                <Element Column ="1">
+                  <Text>S/Tampa</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="13">
+              <RowElements>
+                <Element Column ="0">
+                  <Text>Temperatura de Funcionamento</Text>
+                </Element>
+                <Element Column ="1">
+                  <Text>0 ºC / 8 ºC</Text>
+                </Element>
+              </RowElements>
+            </Row>
+          </RowsArray>
+        </Language>
+      </LanguagesArray>
+    </Fridge>
+
+    <Fridge FridgeName ="COMBI">
+      <GeneralInfo>LINHA SMR LSL</GeneralInfo>
+      <LanguagesArray>
+        <Language Language ="Portugues">
+          <RowsCount>14</RowsCount>
+          <ColumnsCount>3</ColumnsCount>
+          <RowsArray>
+            <Row Index ="0">
+              <RowElements>
+                <Element Column="0">
+                  <Text>INFORMAÇÂO GERAL</Text>
+                </Element>
+                <Element Column="1">
+                  <Text>UPPERDECK LSL 2200
+
+(Parte superior do Combi)
+
+2 Versões: Chiller (+)* e Freezer (-)*
+                  </Text>
+                </Element>
+                <Element Column="2">
+                  <Text>COMBI
+
+(Upperdeck + SMR LSL 2200)
+                  </Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="1">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Largura Exterior</Text>
+                </Element>
+                <Element Column="1">
+                  <Text>2200 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>2200 mm</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="2">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Altura Exterior</Text>
+                </Element>
+                <Element Column="1">
+                  <Text>1369 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>2209 mm</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="3">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Profundidade Exterior</Text>
+                </Element>
+                <Element Column="1">
+                  <Text>630  mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>850 mm</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="4">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Capacidade Bruta</Text>
+                </Element>
+                <Element Column="1">
+                  <Text>757 Lts</Text>
+                </Element>
+                <Element Column="">
+                  <Text>1562 Lts</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="5">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Capacidade Líquida</Text>
+                </Element>
+                <Element Column="1">
+                  <Text>441 Lts</Text>
+                </Element>
+                <Element Column="">
+                  <Text>1180 Lts</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="6">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Área de Exposição</Text>
+                </Element>
+                <Element Column="1">
+                  <Text>2,61 m2</Text>
+                </Element>
+                <Element Column="">
+                  <Text>3,97 m2</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="7">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Gás Refrigerante</Text>
+                </Element>
+                <Element Column="1">
+                  <Text>R290</Text>
+                </Element>
+                <Element Column="">
+                  <Text>R290</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="8">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Classe Climática</Text>
+                </Element>
+                <Element Column="1">
+                  <Text>3M0  (+)*
+
+3L1 (-)*
+                  </Text>
+                </Element>
+                <Element Column="">
+                  <Text>3L1 (-)*</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="9">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Características Energéticas</Text>
+                </Element>
+                <Element Column="1">
+                  <Text>220-240V/50Hz  5.42 A 1000 W  (+)*
+
+220-240V/50Hz  8.13 A 1400 W  (-)*
+                  </Text>
+                </Element>
+                <Element Column="2">
+                  <Text>220-240V/50Hz  9.83 A 1697 W</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="10">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Consumo Energético</Text>
+                </Element>
+                <Element Column="1">
+                  <Text>5.75 kWh/24hr (+)*
+
+19.5 kWh/24hr (-)*
+                  </Text>
+                </Element>
+                <Element Column="2">
+                  <Text>25.3 kWh/24hr</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="11">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Espessura de Isolamento</Text>
+                </Element>
+                <Element Column="1">
+                  <Text>70 mm</Text>
+                </Element>
+                <Element Column="2">
+                  <Text>70 mm</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="12">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Tipo de Tampa</Text>
+                </Element>
+                <Element Column="1">
+                  <Text>Porta – Vidro</Text>
+                </Element>
+                <Element Column="2">
+                  <Text>Porta – Vidro</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="13">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Temperatura de Funcionamento</Text>
+                </Element>
+                <Element Column="1">
+                  <Text>0ºC / 8ºC  (+)*
+
+-24ºC / -16ºC  (-)*
+                  </Text>
+                </Element>
+                <Element Column="">
+                  <Text>-24ºC / -16ºC  (-)*</Text>
+                </Element>
+              </RowElements>
+            </Row>
+          </RowsArray>
+        </Language>
+        <Language Language ="English">
+          <RowsCount>14</RowsCount>
+          <ColumnsCount>3</ColumnsCount>
+          <RowsArray>
+            <Row Index ="0">
+              <RowElements>
+                <Element Column="0">
+                  <Text>INFORMAÇÂO GERAL</Text>
+                </Element>
+                <Element Column="1">
+                  <Text>
+                    UPPERDECK LSL 2200
+
+                    (Parte superior do Combi)
+
+                    2 Versões: Chiller (+)* e Freezer (-)*
+                  </Text>
+                </Element>
+                <Element Column="2">
+                  <Text>
+                    COMBI
+
+                    (Upperdeck + SMR LSL 2200)
+                  </Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="1">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Largura Exterior</Text>
+                </Element>
+                <Element Column="1">
+                  <Text>2200 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>2200 mm</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="2">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Altura Exterior</Text>
+                </Element>
+                <Element Column="1">
+                  <Text>1369 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>2209 mm</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="3">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Profundidade Exterior</Text>
+                </Element>
+                <Element Column="1">
+                  <Text>630  mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>850 mm</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="4">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Capacidade Bruta</Text>
+                </Element>
+                <Element Column="1">
+                  <Text>757 Lts</Text>
+                </Element>
+                <Element Column="">
+                  <Text>1562 Lts</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="5">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Capacidade Líquida</Text>
+                </Element>
+                <Element Column="1">
+                  <Text>441 Lts</Text>
+                </Element>
+                <Element Column="">
+                  <Text>1180 Lts</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="6">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Área de Exposição</Text>
+                </Element>
+                <Element Column="1">
+                  <Text>2,61 m2</Text>
+                </Element>
+                <Element Column="">
+                  <Text>3,97 m2</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="7">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Gás Refrigerante</Text>
+                </Element>
+                <Element Column="1">
+                  <Text>R290</Text>
+                </Element>
+                <Element Column="">
+                  <Text>R290</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="8">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Classe Climática</Text>
+                </Element>
+                <Element Column="1">
+                  <Text>
+                    3M0  (+)*
+
+                    3L1 (-)*
+                  </Text>
+                </Element>
+                <Element Column="">
+                  <Text>3L1 (-)*</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="9">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Características Energéticas</Text>
+                </Element>
+                <Element Column="1">
+                  <Text>
+                    220-240V/50Hz  5.42 A 1000 W  (+)*
+
+                    220-240V/50Hz  8.13 A 1400 W  (-)*
+                  </Text>
+                </Element>
+                <Element Column="2">
+                  <Text>220-240V/50Hz  9.83 A 1697 W</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="10">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Consumo Energético</Text>
+                </Element>
+                <Element Column="1">
+                  <Text>
+                    5.75 kWh/24hr (+)*
+
+                    19.5 kWh/24hr (-)*
+                  </Text>
+                </Element>
+                <Element Column="2">
+                  <Text>25.3 kWh/24hr</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="11">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Espessura de Isolamento</Text>
+                </Element>
+                <Element Column="1">
+                  <Text>70 mm</Text>
+                </Element>
+                <Element Column="2">
+                  <Text>70 mm</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="12">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Tipo de Tampa</Text>
+                </Element>
+                <Element Column="1">
+                  <Text>Porta – Vidro</Text>
+                </Element>
+                <Element Column="2">
+                  <Text>Porta – Vidro</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="13">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Temperatura de Funcionamento</Text>
+                </Element>
+                <Element Column="1">
+                  <Text>
+                    0ºC / 8ºC  (+)*
+
+                    -24ºC / -16ºC  (-)*
+                  </Text>
+                </Element>
+                <Element Column="">
+                  <Text>-24ºC / -16ºC  (-)*</Text>
+                </Element>
+              </RowElements>
+            </Row>
+          </RowsArray>
+        </Language>
+      </LanguagesArray>
+    </Fridge>
+
+    <Fridge FridgeName ="LSM 800">
+      <GeneralInfo>LINHA SMR LSL</GeneralInfo>
+      <LanguagesArray>
+        <Language Language ="Portugues">
+          <RowsCount>14</RowsCount>
+          <ColumnsCount>2</ColumnsCount>
+          <RowsArray>
+            <Row Index ="0">
+              <RowElements>
+                <Element Column = "0">
+                  <Text>Informação geral</Text>
+                </Element>
+                <Element Column = "1">
+                  <Text></Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="1">
+              <RowElements>
+                <Element Column ="0">
+                  <Text>Largura Exterior</Text>
+                </Element>
+                <Element Column ="1">
+                  <Text>2000 mm</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="2">
+              <RowElements>
+                <Element Column ="0">
+                  <Text>Altura Exterior</Text>
+                </Element>
+                <Element Column ="1">
+                  <Text>800 mm</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="3">
+              <RowElements>
+                <Element Column ="0">
+                  <Text>Profundidade Exterior</Text>
+                </Element>
+                <Element Column ="1">
+                  <Text>700 mm</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="4">
+              <RowElements>
+                <Element Column ="0">
+                  <Text>Capacidade Bruta</Text>
+                </Element>
+                <Element Column ="1">
+                  <Text>684 Lts</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="5">
+              <RowElements>
+                <Element Column ="0">
+                  <Text>Capacidade Líquida</Text>
+                </Element>
+                <Element Column ="1">
+                  <Text>556 Lts</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="6">
+              <RowElements>
+                <Element Column ="0">
+                  <Text>Área de Exposição</Text>
+                </Element>
+                <Element Column ="1">
+                  <Text>0.81m2</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="7">
+              <RowElements>
+                <Element Column ="0">
+                  <Text>Gás Refrigerante</Text>
+                </Element>
+                <Element Column ="1">
+                  <Text>R290</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="8">
+              <RowElements>
+                <Element Column ="0">
+                  <Text>Classe Climática</Text>
+                </Element>
+                <Element Column ="1">
+                  <Text>4L1</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="9">
+              <RowElements>
+                <Element Column ="0">
+                  <Text>Características Energéticas</Text>
+                </Element>
+                <Element Column ="1">
+                  <Text>220-240V/50Hz 3.2 A 450 W
+                  </Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="10">
+              <RowElements>
+                <Element Column ="0">
+                  <Text>Consumo Elétrico</Text>
+                </Element>
+                <Element Column ="1">
+                  <Text>5.99 kWh/24hr</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="11">
+              <RowElements>
+                <Element Column ="0">
+                  <Text>Espessura Isolamento</Text>
+                </Element>
+                <Element Column ="1">
+                  <Text>70 mm</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="12">
+              <RowElements>
+                <Element Column ="0">
+                  <Text>Tipo de Tampas</Text>
+                </Element>
+                <Element Column ="1">
+                  <Text>Tampa - Vidro</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="13">
+              <RowElements>
+                <Element Column ="0">
+                  <Text>Temperatura de Funcionamento</Text>
+                </Element>
+                <Element Column ="1">
+                  <Text>-24ºC / -16ºC</Text>
+                </Element>
+              </RowElements>
+            </Row>
+          </RowsArray>
+        </Language>
+        <Language Language ="English">
+          <RowsCount>14</RowsCount>
+          <ColumnsCount>2</ColumnsCount>
+          <RowsArray>
+            <Row Index ="0">
+              <RowElements>
+                <Element Column = "0">
+                  <Text>Informação geral</Text>
+                </Element>
+                <Element Column = "1">
+                  <Text></Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="1">
+              <RowElements>
+                <Element Column ="0">
+                  <Text>Largura Exterior</Text>
+                </Element>
+                <Element Column ="1">
+                  <Text>2000 mm</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="2">
+              <RowElements>
+                <Element Column ="0">
+                  <Text>Altura Exterior</Text>
+                </Element>
+                <Element Column ="1">
+                  <Text>800 mm</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="3">
+              <RowElements>
+                <Element Column ="0">
+                  <Text>Profundidade Exterior</Text>
+                </Element>
+                <Element Column ="1">
+                  <Text>700 mm</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="4">
+              <RowElements>
+                <Element Column ="0">
+                  <Text>Capacidade Bruta</Text>
+                </Element>
+                <Element Column ="1">
+                  <Text>684 Lts</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="5">
+              <RowElements>
+                <Element Column ="0">
+                  <Text>Capacidade Líquida</Text>
+                </Element>
+                <Element Column ="1">
+                  <Text>556 Lts</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="6">
+              <RowElements>
+                <Element Column ="0">
+                  <Text>Área de Exposição</Text>
+                </Element>
+                <Element Column ="1">
+                  <Text>0.81m2</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="7">
+              <RowElements>
+                <Element Column ="0">
+                  <Text>Gás Refrigerante</Text>
+                </Element>
+                <Element Column ="1">
+                  <Text>R290</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="8">
+              <RowElements>
+                <Element Column ="0">
+                  <Text>Classe Climática</Text>
+                </Element>
+                <Element Column ="1">
+                  <Text>4L1</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="9">
+              <RowElements>
+                <Element Column ="0">
+                  <Text>Características Energéticas</Text>
+                </Element>
+                <Element Column ="1">
+                  <Text>
+                    220-240V/50Hz 3.2 A 450 W
+                  </Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="10">
+              <RowElements>
+                <Element Column ="0">
+                  <Text>Consumo Elétrico</Text>
+                </Element>
+                <Element Column ="1">
+                  <Text>5.99 kWh/24hr</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="11">
+              <RowElements>
+                <Element Column ="0">
+                  <Text>Espessura Isolamento</Text>
+                </Element>
+                <Element Column ="1">
+                  <Text>70 mm</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="12">
+              <RowElements>
+                <Element Column ="0">
+                  <Text>Tipo de Tampas</Text>
+                </Element>
+                <Element Column ="1">
+                  <Text>Tampa - Vidro</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="13">
+              <RowElements>
+                <Element Column ="0">
+                  <Text>Temperatura de Funcionamento</Text>
+                </Element>
+                <Element Column ="1">
+                  <Text>-24ºC / -16ºC</Text>
+                </Element>
+              </RowElements>
+            </Row>
+          </RowsArray>
+        </Language>
+      </LanguagesArray>
+    </Fridge>
+
+    <Fridge FridgeName ="WD 250">
+      <GeneralInfo>WD 250</GeneralInfo>
+      <LanguagesArray>
+        <Language Language ="Portugues">
+          <RowsCount>14</RowsCount>
+          <ColumnsCount>2</ColumnsCount>
+          <RowsArray>
+            <Row Index ="0">
+              <RowElements>
+                <Element Column = "0">
+                  <Text>Informação geral</Text>
+                </Element>
+                <Element Column = "1">
+                  <Text>2 Versões:
+Chiller (+)* e Freezer (-)*</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="1">
+              <RowElements>
+                <Element Column ="0">
+                  <Text>Largura Exterior</Text>
+                </Element>
+                <Element Column ="1">
+                  <Text>2500 mm</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="2">
+              <RowElements>
+                <Element Column ="0">
+                  <Text>Altura Exterior</Text>
+                </Element>
+                <Element Column ="1">
+                  <Text>2300 mm</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="3">
+              <RowElements>
+                <Element Column ="0">
+                  <Text>Profundidade Exterior</Text>
+                </Element>
+                <Element Column ="1">
+                  <Text>870 mm</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="4">
+              <RowElements>
+                <Element Column ="0">
+                  <Text>Capacidade Bruta</Text>
+                </Element>
+                <Element Column ="1">
+                  <Text>2663 Lts</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="5">
+              <RowElements>
+                <Element Column ="0">
+                  <Text>Capacidade Líquida</Text>
+                </Element>
+                <Element Column ="1">
+                  <Text>1635 Lts</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="6">
+              <RowElements>
+                <Element Column ="0">
+                  <Text>Área de Exposição</Text>
+                </Element>
+                <Element Column ="1">
+                  <Text>3.3m2</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="7">
+              <RowElements>
+                <Element Column ="0">
+                  <Text>Gás Refrigerante</Text>
+                </Element>
+                <Element Column ="1">
+                  <Text>R290</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="8">
+              <RowElements>
+                <Element Column ="0">
+                  <Text>Classe Climática</Text>
+                </Element>
+                <Element Column ="1">
+                  <Text>3M1 (+)*
+3L1 (-)*
+                  </Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="9">
+              <RowElements>
+                <Element Column ="0">
+                  <Text>Características Energéticas</Text>
+                </Element>
+                <Element Column ="1">
+                  <Text>
+400V/50Hz 11,6 A 2230 W (+)*
+400V/50Hz 14,2 A 2850 W (-)*
+                  </Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="10">
+              <RowElements>
+                <Element Column ="0">
+                  <Text>Consumo Elétrico</Text>
+                </Element>
+                <Element Column ="1">
+                  <Text>-</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="11">
+              <RowElements>
+                <Element Column ="0">
+                  <Text>Espessura Isolamento</Text>
+                </Element>
+                <Element Column ="1">
+                  <Text>70 mm</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="12">
+              <RowElements>
+                <Element Column ="0">
+                  <Text>Tipo de Tampas</Text>
+                </Element>
+                <Element Column ="1">
+                  <Text>Porta - Vidro</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="13">
+              <RowElements>
+                <Element Column ="0">
+                  <Text>Temperatura de Funcionamento</Text>
+                </Element>
+                <Element Column ="1">
+                  <Text>0ºC to 8ºC  (+)*
+-24ºC to -16ºC  (-)*
+                  </Text>
+                </Element>
+              </RowElements>
+            </Row>
+          </RowsArray>
+        </Language>
+        <Language Language ="English">
+          <RowsCount>14</RowsCount>
+          <ColumnsCount>2</ColumnsCount>
+          <RowsArray>
+            <Row Index ="0">
+              <RowElements>
+                <Element Column = "0">
+                  <Text>Informação geral</Text>
+                </Element>
+                <Element Column = "1">
+                  <Text>2 Versões: Chiller (+)* e Freezer (-)*</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="1">
+              <RowElements>
+                <Element Column ="0">
+                  <Text>Largura Exterior</Text>
+                </Element>
+                <Element Column ="1">
+                  <Text>2500 mm</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="2">
+              <RowElements>
+                <Element Column ="0">
+                  <Text>Altura Exterior</Text>
+                </Element>
+                <Element Column ="1">
+                  <Text>2300 mm</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="3">
+              <RowElements>
+                <Element Column ="0">
+                  <Text>Profundidade Exterior</Text>
+                </Element>
+                <Element Column ="1">
+                  <Text>870 mm</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="4">
+              <RowElements>
+                <Element Column ="0">
+                  <Text>Capacidade Bruta</Text>
+                </Element>
+                <Element Column ="1">
+                  <Text>2663 Lts</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="5">
+              <RowElements>
+                <Element Column ="0">
+                  <Text>Capacidade Líquida</Text>
+                </Element>
+                <Element Column ="1">
+                  <Text>1635 Lts</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="6">
+              <RowElements>
+                <Element Column ="0">
+                  <Text>Área de Exposição</Text>
+                </Element>
+                <Element Column ="1">
+                  <Text>3.3m2</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="7">
+              <RowElements>
+                <Element Column ="0">
+                  <Text>Gás Refrigerante</Text>
+                </Element>
+                <Element Column ="1">
+                  <Text>R290</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="8">
+              <RowElements>
+                <Element Column ="0">
+                  <Text>Classe Climática</Text>
+                </Element>
+                <Element Column ="1">
+                  <Text>
+                    3M1 (+)*
+                    3L1 (-)*
+                  </Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="9">
+              <RowElements>
+                <Element Column ="0">
+                  <Text>Características Energéticas</Text>
+                </Element>
+                <Element Column ="1">
+                  <Text>
+                    400V/50Hz 11,6 A 2230 W (+)*
+                    400V/50Hz 14,2 A 2850 W (-)*
+                  </Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="10">
+              <RowElements>
+                <Element Column ="0">
+                  <Text>Consumo Elétrico</Text>
+                </Element>
+                <Element Column ="1">
+                  <Text>-</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="11">
+              <RowElements>
+                <Element Column ="0">
+                  <Text>Espessura Isolamento</Text>
+                </Element>
+                <Element Column ="1">
+                  <Text>70 mm</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="12">
+              <RowElements>
+                <Element Column ="0">
+                  <Text>Tipo de Tampas</Text>
+                </Element>
+                <Element Column ="1">
+                  <Text>Porta - Vidro</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="13">
+              <RowElements>
+                <Element Column ="0">
+                  <Text>Temperatura de Funcionamento</Text>
+                </Element>
+                <Element Column ="1">
+                  <Text>
+                    0ºC to 8ºC  (+)*
+                    -24ºC to -16ºC  (-)*
+                  </Text>
+                </Element>
+              </RowElements>
+            </Row>
+          </RowsArray>
+        </Language>
+      </LanguagesArray>
+    </Fridge>
+
+    <Fridge FridgeName ="SMR LSL 1700">
+      <GeneralInfo>LINHA SMR LSL</GeneralInfo>
+      <LanguagesArray>
+        <Language Language ="Portugues">
+          <RowsCount>14</RowsCount>
+          <ColumnsCount>5</ColumnsCount>
+          <RowsArray>
+            <Row Index ="0">
+              <RowElements>
+                <Element Column="0">
+                  <Text>INFORMAÇÂO GERAL</Text>
+                </Element>
+                <Element Column="1">
+                  <Text>Descongelação Manual (MD)</Text>
+                </Element>
+                <Element Column="2">
+                  <Text>Descongelação Automática (AD)</Text>
+                </Element>
+                <Element Column="3">
+                  <Text>Compressor Velocidade Variável (ADVS)</Text>
+                </Element>
+                <Element Column="4">
+                  <Text>Compressor Velocidade Variável (VCC)</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="1">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Largura Exterior</Text>
+                </Element>
+                <Element Column="">
+                  <Text>1700 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>1700 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>1700 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>1700 mm</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="2">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Altura Exterior</Text>
+                </Element>
+                <Element Column="">
+                  <Text>840 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>840 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>840 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>840 mm</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="3">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Profundidade Exterior</Text>
+                </Element>
+                <Element Column="">
+                  <Text>880 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>880 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>880 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>880 mm</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="4">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Capacidade Bruta</Text>
+                </Element>
+                <Element Column="">
+                  <Text>585 Lts</Text>
+                </Element>
+                <Element Column="">
+                  <Text>585 Lts</Text>
+                </Element>
+                <Element Column="">
+                  <Text>585 Lts</Text>
+                </Element>
+                <Element Column="">
+                  <Text>585 Lts</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="5">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Capacidade Líquida</Text>
+                </Element>
+                <Element Column="">
+                  <Text>532 Lts</Text>
+                </Element>
+                <Element Column="">
+                  <Text>532 Lts</Text>
+                </Element>
+                <Element Column="">
+                  <Text>532 Lts</Text>
+                </Element>
+                <Element Column="">
+                  <Text>532 Lts</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="6">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Área de Exposição</Text>
+                </Element>
+                <Element Column="">
+                  <Text>1,03 m2</Text>
+                </Element>
+                <Element Column="">
+                  <Text>1,03 m2</Text>
+                </Element>
+                <Element Column="">
+                  <Text>1,03 m2</Text>
+                </Element>
+                <Element Column="">
+                  <Text>1,03 m2</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="7">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Gás Refrigerante</Text>
+                </Element>
+                <Element Column="">
+                  <Text>R290</Text>
+                </Element>
+                <Element Column="">
+                  <Text>R290</Text>
+                </Element>
+                <Element Column="">
+                  <Text>R290</Text>
+                </Element>
+                <Element Column="">
+                  <Text>R290</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="8">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Classe Climática</Text>
+                </Element>
+                <Element Column="">
+                  <Text>3L1</Text>
+                </Element>
+                <Element Column="">
+                  <Text>3L1</Text>
+                </Element>
+                <Element Column="">
+                  <Text>3L1</Text>
+                </Element>
+                <Element Column="">
+                  <Text>3L1</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="9">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Características Energéticas</Text>
+                </Element>
+                <Element Column="">
+                  <Text>220-240V / 50Hz  2 A 270 W</Text>
+                </Element>
+                <Element Column="">
+                  <Text>220-240V / 50Hz  3.25 A 500 W</Text>
+                </Element>
+                <Element Column="">
+                  <Text>220-240V/ 50-60Hz 1.65 A 380 W</Text>
+                </Element>
+                <Element Column="">
+                  <Text>220-240V / 50-60Hz 1.4 A 285 W</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="10">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Consumo Energético</Text>
+                </Element>
+                <Element Column="">
+                  <Text>5.88 kWh/24hr</Text>
+                </Element>
+                <Element Column="">
+                  <Text>5.4 kWh/24hr</Text>
+                </Element>
+                <Element Column="">
+                  <Text>4.5 kWh/24hr</Text>
+                </Element>
+                <Element Column="">
+                  <Text>4.3 kWh/24hr</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="11">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Espessura de Isolamento</Text>
+                </Element>
+                <Element Column="">
+                  <Text>70 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>70 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>70 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>70 mm</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="12">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Tipo de Tampa</Text>
+                </Element>
+                <Element Column="">
+                  <Text>Tampa – Vidro</Text>
+                </Element>
+                <Element Column="">
+                  <Text>Tampa – Vidro</Text>
+                </Element>
+                <Element Column="">
+                  <Text>Tampa – Vidro</Text>
+                </Element>
+                <Element Column="">
+                  <Text>Tampa – Vidro</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="13">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Temperatura de Funcionamento</Text>
+                </Element>
+                <Element Column="">
+                  <Text>-24ºC to -16ºC</Text>
+                </Element>
+                <Element Column="">
+                  <Text>-24ºC to -16ºC</Text>
+                </Element>
+                <Element Column="">
+                  <Text>-24ºC to -16ºC</Text>
+                </Element>
+                <Element Column="">
+                  <Text>-24ºC to -16ºC</Text>
+                </Element>
+              </RowElements>
+            </Row>
+          </RowsArray>
+        </Language>
+        <Language Language ="English">
+          <RowsCount>14</RowsCount>
+          <ColumnsCount>5</ColumnsCount>
+          <RowsArray>
+            <Row Index ="0">
+              <RowElements>
+                <Element Column="0">
+                  <Text>INFORMAÇÂO GERAL</Text>
+                </Element>
+                <Element Column="1">
+                  <Text>Descongelação Manual (MD)</Text>
+                </Element>
+                <Element Column="2">
+                  <Text>Descongelação Automática (AD)</Text>
+                </Element>
+                <Element Column="3">
+                  <Text>Compressor Velocidade Variável (ADVS)</Text>
+                </Element>
+                <Element Column="4">
+                  <Text>Compressor Velocidade Variável (VCC)</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="1">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Largura Exterior</Text>
+                </Element>
+                <Element Column="">
+                  <Text>1700 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>1700 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>1700 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>1700 mm</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="2">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Altura Exterior</Text>
+                </Element>
+                <Element Column="">
+                  <Text>840 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>840 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>840 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>840 mm</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="3">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Profundidade Exterior</Text>
+                </Element>
+                <Element Column="">
+                  <Text>880 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>880 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>880 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>880 mm</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="4">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Capacidade Bruta</Text>
+                </Element>
+                <Element Column="">
+                  <Text>585 Lts</Text>
+                </Element>
+                <Element Column="">
+                  <Text>585 Lts</Text>
+                </Element>
+                <Element Column="">
+                  <Text>585 Lts</Text>
+                </Element>
+                <Element Column="">
+                  <Text>585 Lts</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="5">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Capacidade Líquida</Text>
+                </Element>
+                <Element Column="">
+                  <Text>532 Lts</Text>
+                </Element>
+                <Element Column="">
+                  <Text>532 Lts</Text>
+                </Element>
+                <Element Column="">
+                  <Text>532 Lts</Text>
+                </Element>
+                <Element Column="">
+                  <Text>532 Lts</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="6">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Área de Exposição</Text>
+                </Element>
+                <Element Column="">
+                  <Text>1,03 m2</Text>
+                </Element>
+                <Element Column="">
+                  <Text>1,03 m2</Text>
+                </Element>
+                <Element Column="">
+                  <Text>1,03 m2</Text>
+                </Element>
+                <Element Column="">
+                  <Text>1,03 m2</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="7">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Gás Refrigerante</Text>
+                </Element>
+                <Element Column="">
+                  <Text>R290</Text>
+                </Element>
+                <Element Column="">
+                  <Text>R290</Text>
+                </Element>
+                <Element Column="">
+                  <Text>R290</Text>
+                </Element>
+                <Element Column="">
+                  <Text>R290</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="8">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Classe Climática</Text>
+                </Element>
+                <Element Column="">
+                  <Text>3L1</Text>
+                </Element>
+                <Element Column="">
+                  <Text>3L1</Text>
+                </Element>
+                <Element Column="">
+                  <Text>3L1</Text>
+                </Element>
+                <Element Column="">
+                  <Text>3L1</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="9">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Características Energéticas</Text>
+                </Element>
+                <Element Column="">
+                  <Text>220-240V / 50Hz  2 A 270 W</Text>
+                </Element>
+                <Element Column="">
+                  <Text>220-240V / 50Hz  3.25 A 500 W</Text>
+                </Element>
+                <Element Column="">
+                  <Text>220-240V/ 50-60Hz 1.65 A 380 W</Text>
+                </Element>
+                <Element Column="">
+                  <Text>220-240V / 50-60Hz 1.4 A 285 W</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="10">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Consumo Energético</Text>
+                </Element>
+                <Element Column="">
+                  <Text>5.88 kWh/24hr</Text>
+                </Element>
+                <Element Column="">
+                  <Text>5.4 kWh/24hr</Text>
+                </Element>
+                <Element Column="">
+                  <Text>4.5 kWh/24hr</Text>
+                </Element>
+                <Element Column="">
+                  <Text>4.3 kWh/24hr</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="11">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Espessura de Isolamento</Text>
+                </Element>
+                <Element Column="">
+                  <Text>70 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>70 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>70 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>70 mm</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="12">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Tipo de Tampa</Text>
+                </Element>
+                <Element Column="">
+                  <Text>Tampa – Vidro</Text>
+                </Element>
+                <Element Column="">
+                  <Text>Tampa – Vidro</Text>
+                </Element>
+                <Element Column="">
+                  <Text>Tampa – Vidro</Text>
+                </Element>
+                <Element Column="">
+                  <Text>Tampa – Vidro</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="13">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Temperatura de Funcionamento</Text>
+                </Element>
+                <Element Column="">
+                  <Text>-24ºC to -16ºC</Text>
+                </Element>
+                <Element Column="">
+                  <Text>-24ºC to -16ºC</Text>
+                </Element>
+                <Element Column="">
+                  <Text>-24ºC to -16ºC</Text>
+                </Element>
+                <Element Column="">
+                  <Text>-24ºC to -16ºC</Text>
+                </Element>
+              </RowElements>
+            </Row>
+          </RowsArray>
+        </Language>
+      </LanguagesArray>
+    </Fridge>
+
+    <Fridge FridgeName ="SMR LSL 1940">
+      <GeneralInfo>LINHA SMR LSL</GeneralInfo>
+      <LanguagesArray>
+        <Language Language ="Portugues">
+          <RowsCount>14</RowsCount>
+          <ColumnsCount>5</ColumnsCount>
+          <RowsArray>
+            <Row Index ="0">
+              <RowElements>
+                <Element Column="0">
+                  <Text>INFORMAÇÂO GERAL</Text>
+                </Element>
+                <Element Column="1">
+                  <Text>Descongelação Manual (MD)</Text>
+                </Element>
+                <Element Column="2">
+                  <Text>Descongelação Automática (AD)</Text>
+                </Element>
+                <Element Column="3">
+                  <Text>Compressor Velocidade Variável (ADVS)</Text>
+                </Element>
+                <Element Column="4">
+                  <Text>Compressor Velocidade Variável (VCC)</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="1">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Largura Exterior</Text>
+                </Element>
+                <Element Column="">
+                  <Text>1970 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>1970 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>1970 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>1970 mm</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="2">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Altura Exterior</Text>
+                </Element>
+                <Element Column="">
+                  <Text>765 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>765 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>765 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>765 mm</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="3">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Profundidade Exterior</Text>
+                </Element>
+                <Element Column="">
+                  <Text>870 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>870 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>870 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>870 mm</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="4">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Capacidade Bruta</Text>
+                </Element>
+                <Element Column="">
+                  <Text>623 Lts</Text>
+                </Element>
+                <Element Column="">
+                  <Text>623 Lts</Text>
+                </Element>
+                <Element Column="">
+                  <Text>623 Lts</Text>
+                </Element>
+                <Element Column="">
+                  <Text>623 Lts</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="5">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Capacidade Líquida</Text>
+                </Element>
+                <Element Column="">
+                  <Text>574 Lts</Text>
+                </Element>
+                <Element Column="">
+                  <Text>574 Lts</Text>
+                </Element>
+                <Element Column="">
+                  <Text>574 Lts</Text>
+                </Element>
+                <Element Column="">
+                  <Text>574 Lts</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="6">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Área de Exposição</Text>
+                </Element>
+                <Element Column="">
+                  <Text>1,16 m2</Text>
+                </Element>
+                <Element Column="">
+                  <Text>1,16 m2</Text>
+                </Element>
+                <Element Column="">
+                  <Text>1,16 m2</Text>
+                </Element>
+                <Element Column="">
+                  <Text>1,16 m2</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="7">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Gás Refrigerante</Text>
+                </Element>
+                <Element Column="">
+                  <Text>R290</Text>
+                </Element>
+                <Element Column="">
+                  <Text>R290</Text>
+                </Element>
+                <Element Column="">
+                  <Text>R290</Text>
+                </Element>
+                <Element Column="">
+                  <Text>R290</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="8">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Classe Climática</Text>
+                </Element>
+                <Element Column="">
+                  <Text>3L1</Text>
+                </Element>
+                <Element Column="">
+                  <Text>3L1</Text>
+                </Element>
+                <Element Column="">
+                  <Text>3L1</Text>
+                </Element>
+                <Element Column="">
+                  <Text>3L1</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="9">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Características Energéticas</Text>
+                </Element>
+                <Element Column="">
+                  <Text>220-240V / 50Hz  2.83 A 334 W</Text>
+                </Element>
+                <Element Column="">
+                  <Text>220-240V / 50Hz  2.96 A 352 W</Text>
+                </Element>
+                <Element Column="">
+                  <Text>220-240V / 50-60Hz   2.2 A 510 W</Text>
+                </Element>
+                <Element Column="">
+                  <Text>220-240V / 50-60Hz  2.19 A 502 W</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="10">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Consumo Energético</Text>
+                </Element>
+                <Element Column="">
+                  <Text>7.3 kWh/24hr</Text>
+                </Element>
+                <Element Column="">
+                  <Text>5.7 kWh/24hr</Text>
+                </Element>
+                <Element Column="">
+                  <Text>4.7 kWh/24hr</Text>
+                </Element>
+                <Element Column="">
+                  <Text>4.4 kWh/24hr</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="11">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Espessura de Isolamento</Text>
+                </Element>
+                <Element Column="">
+                  <Text>70 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>70 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>70 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>70 mm</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="12">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Tipo de Tampa</Text>
+                </Element>
+                <Element Column="">
+                  <Text>Tampa – Vidro</Text>
+                </Element>
+                <Element Column="">
+                  <Text>Tampa – Vidro</Text>
+                </Element>
+                <Element Column="">
+                  <Text>Tampa – Vidro</Text>
+                </Element>
+                <Element Column="">
+                  <Text>Tampa – Vidro</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="13">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Temperatura de Funcionamento</Text>
+                </Element>
+                <Element Column="">
+                  <Text>-24ºC to -16ºC</Text>
+                </Element>
+                <Element Column="">
+                  <Text>-24ºC to -16ºC</Text>
+                </Element>
+                <Element Column="">
+                  <Text>-24ºC to -16ºC</Text>
+                </Element>
+                <Element Column="">
+                  <Text>-24ºC to -16ºC</Text>
+                </Element>
+              </RowElements>
+            </Row>
+          </RowsArray>
+        </Language>
+        <Language Language ="English">
+          <RowsCount>14</RowsCount>
+          <ColumnsCount>5</ColumnsCount>
+          <RowsArray>
+            <Row Index ="0">
+              <RowElements>
+                <Element Column="0">
+                  <Text>INFORMAÇÂO GERAL</Text>
+                </Element>
+                <Element Column="1">
+                  <Text>Descongelação Manual (MD)</Text>
+                </Element>
+                <Element Column="2">
+                  <Text>Descongelação Automática (AD)</Text>
+                </Element>
+                <Element Column="3">
+                  <Text>Compressor Velocidade Variável (ADVS)</Text>
+                </Element>
+                <Element Column="4">
+                  <Text>Compressor Velocidade Variável (VCC)</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="1">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Largura Exterior</Text>
+                </Element>
+                <Element Column="">
+                  <Text>1970 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>1970 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>1970 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>1970 mm</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="2">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Altura Exterior</Text>
+                </Element>
+                <Element Column="">
+                  <Text>765 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>765 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>765 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>765 mm</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="3">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Profundidade Exterior</Text>
+                </Element>
+                <Element Column="">
+                  <Text>870 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>870 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>870 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>870 mm</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="4">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Capacidade Bruta</Text>
+                </Element>
+                <Element Column="">
+                  <Text>623 Lts</Text>
+                </Element>
+                <Element Column="">
+                  <Text>623 Lts</Text>
+                </Element>
+                <Element Column="">
+                  <Text>623 Lts</Text>
+                </Element>
+                <Element Column="">
+                  <Text>623 Lts</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="5">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Capacidade Líquida</Text>
+                </Element>
+                <Element Column="">
+                  <Text>574 Lts</Text>
+                </Element>
+                <Element Column="">
+                  <Text>574 Lts</Text>
+                </Element>
+                <Element Column="">
+                  <Text>574 Lts</Text>
+                </Element>
+                <Element Column="">
+                  <Text>574 Lts</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="6">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Área de Exposição</Text>
+                </Element>
+                <Element Column="">
+                  <Text>1,16 m2</Text>
+                </Element>
+                <Element Column="">
+                  <Text>1,16 m2</Text>
+                </Element>
+                <Element Column="">
+                  <Text>1,16 m2</Text>
+                </Element>
+                <Element Column="">
+                  <Text>1,16 m2</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="7">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Gás Refrigerante</Text>
+                </Element>
+                <Element Column="">
+                  <Text>R290</Text>
+                </Element>
+                <Element Column="">
+                  <Text>R290</Text>
+                </Element>
+                <Element Column="">
+                  <Text>R290</Text>
+                </Element>
+                <Element Column="">
+                  <Text>R290</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="8">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Classe Climática</Text>
+                </Element>
+                <Element Column="">
+                  <Text>3L1</Text>
+                </Element>
+                <Element Column="">
+                  <Text>3L1</Text>
+                </Element>
+                <Element Column="">
+                  <Text>3L1</Text>
+                </Element>
+                <Element Column="">
+                  <Text>3L1</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="9">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Características Energéticas</Text>
+                </Element>
+                <Element Column="">
+                  <Text>220-240V / 50Hz  2.83 A 334 W</Text>
+                </Element>
+                <Element Column="">
+                  <Text>220-240V / 50Hz  2.96 A 352 W</Text>
+                </Element>
+                <Element Column="">
+                  <Text>220-240V / 50-60Hz   2.2 A 510 W</Text>
+                </Element>
+                <Element Column="">
+                  <Text>220-240V / 50-60Hz  2.19 A 502 W</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="10">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Consumo Energético</Text>
+                </Element>
+                <Element Column="">
+                  <Text>7.3 kWh/24hr</Text>
+                </Element>
+                <Element Column="">
+                  <Text>5.7 kWh/24hr</Text>
+                </Element>
+                <Element Column="">
+                  <Text>4.7 kWh/24hr</Text>
+                </Element>
+                <Element Column="">
+                  <Text>4.4 kWh/24hr</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="11">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Espessura de Isolamento</Text>
+                </Element>
+                <Element Column="">
+                  <Text>70 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>70 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>70 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>70 mm</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="12">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Tipo de Tampa</Text>
+                </Element>
+                <Element Column="">
+                  <Text>Tampa – Vidro</Text>
+                </Element>
+                <Element Column="">
+                  <Text>Tampa – Vidro</Text>
+                </Element>
+                <Element Column="">
+                  <Text>Tampa – Vidro</Text>
+                </Element>
+                <Element Column="">
+                  <Text>Tampa – Vidro</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="13">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Temperatura de Funcionamento</Text>
+                </Element>
+                <Element Column="">
+                  <Text>-24ºC to -16ºC</Text>
+                </Element>
+                <Element Column="">
+                  <Text>-24ºC to -16ºC</Text>
+                </Element>
+                <Element Column="">
+                  <Text>-24ºC to -16ºC</Text>
+                </Element>
+                <Element Column="">
+                  <Text>-24ºC to -16ºC</Text>
+                </Element>
+              </RowElements>
+            </Row>
+          </RowsArray>
+        </Language>
+      </LanguagesArray>
+    </Fridge>
+
+    <Fridge FridgeName ="SMR DA 2200">
+      <GeneralInfo>SMR DA</GeneralInfo>
+      <LanguagesArray>
+        <Language Language ="Portugues">
+          <RowsCount>14</RowsCount>
+          <ColumnsCount>5</ColumnsCount>
+          <RowsArray>
+            <Row Index ="0">
+              <RowElements>
+                <Element Column="0">
+                  <Text>INFORMAÇÂO GERAL</Text>
+                </Element>
+                <Element Column="1">
+                  <Text>Descongelação Manual (MD)</Text>
+                </Element>
+                <Element Column="2">
+                  <Text>Descongelação Automática (AD)</Text>
+                </Element>
+                <Element Column="3">
+                  <Text>Compressor Velocidade Variável (ADVS)</Text>
+                </Element>
+                <Element Column="4">
+                  <Text>Compressor Velocidade Variável (VCC)</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="1">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Largura Exterior</Text>
+                </Element>
+                <Element Column="">
+                  <Text>2200 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>2200 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>2200 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>2200 mm</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="2">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Altura Exterior</Text>
+                </Element>
+                <Element Column="">
+                  <Text>860 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>860 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>860 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>860 mm</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="3">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Profundidade Exterior</Text>
+                </Element>
+                <Element Column="">
+                  <Text>1000 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>1000 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>1000 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>1000 mm</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="4">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Capacidade Bruta</Text>
+                </Element>
+                <Element Column="">
+                  <Text>934 L</Text>
+                </Element>
+                <Element Column="">
+                  <Text>934 L</Text>
+                </Element>
+                <Element Column="">
+                  <Text>934 L</Text>
+                </Element>
+                <Element Column="">
+                  <Text>934 L</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="5">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Capacidade Líquida</Text>
+                </Element>
+                <Element Column="">
+                  <Text>833 L</Text>
+                </Element>
+                <Element Column="">
+                  <Text>833 L</Text>
+                </Element>
+                <Element Column="">
+                  <Text>833 L</Text>
+                </Element>
+                <Element Column="">
+                  <Text>833 L</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="6">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Área de Exposição</Text>
+                </Element>
+                <Element Column="">
+                  <Text>1,59 m2</Text>
+                </Element>
+                <Element Column="">
+                  <Text>1,59 m2</Text>
+                </Element>
+                <Element Column="">
+                  <Text>1,59 m2</Text>
+                </Element>
+                <Element Column="">
+                  <Text>1,59 m2</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="7">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Gás Refrigerante</Text>
+                </Element>
+                <Element Column="">
+                  <Text>R290</Text>
+                </Element>
+                <Element Column="">
+                  <Text>R290</Text>
+                </Element>
+                <Element Column="">
+                  <Text>R290</Text>
+                </Element>
+                <Element Column="">
+                  <Text>R290</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="8">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Classe Climática</Text>
+                </Element>
+                <Element Column="">
+                  <Text>4L1</Text>
+                </Element>
+                <Element Column="">
+                  <Text>3L1</Text>
+                </Element>
+                <Element Column="">
+                  <Text>3L1</Text>
+                </Element>
+                <Element Column="">
+                  <Text>3L1</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="9">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Características Energéticas</Text>
+                </Element>
+                <Element Column="">
+                  <Text>220-240V / 50Hz 2.2 A 430 W</Text>
+                </Element>
+                <Element Column="">
+                  <Text>220-240V / 50Hz  3.1 A 515 W</Text>
+                </Element>
+                <Element Column="">
+                  <Text>220-240V/ 50Hz 2.1 A 420 W</Text>
+                </Element>
+                <Element Column="">
+                  <Text>220-240V / 50-60Hz 1.45 A 334 W</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="10">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Consumo Energético</Text>
+                </Element>
+                <Element Column="">
+                  <Text>8.66 kWh/24hr</Text>
+                </Element>
+                <Element Column="">
+                  <Text>7.3 kWh/24hr</Text>
+                </Element>
+                <Element Column="">
+                  <Text>6.1 kWh/24hr</Text>
+                </Element>
+                <Element Column="">
+                  <Text>5.8 kWh/24hr</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="11">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Espessura de Isolamento</Text>
+                </Element>
+                <Element Column="">
+                  <Text>70 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>70 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>70 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>70 mm</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="12">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Tipo de Tampa</Text>
+                </Element>
+                <Element Column="">
+                  <Text>Curva</Text>
+                </Element>
+                <Element Column="">
+                  <Text>Curva</Text>
+                </Element>
+                <Element Column="">
+                  <Text>Curva</Text>
+                </Element>
+                <Element Column="">
+                  <Text>Curva</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="13">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Temperatura de Funcionamento</Text>
+                </Element>
+                <Element Column="">
+                  <Text>-24ºC to -16ºC</Text>
+                </Element>
+                <Element Column="">
+                  <Text>-24ºC to -16ºC</Text>
+                </Element>
+                <Element Column="">
+                  <Text>-24ºC to -16ºC</Text>
+                </Element>
+                <Element Column="">
+                  <Text>-24ºC to -16ºC</Text>
+                </Element>
+              </RowElements>
+            </Row>
+          </RowsArray>
+        </Language>
+        <Language Language ="English">
+          <RowsCount>14</RowsCount>
+          <ColumnsCount>5</ColumnsCount>
+          <RowsArray>
+            <Row Index ="0">
+              <RowElements>
+                <Element Column="0">
+                  <Text>INFORMAÇÂO GERAL</Text>
+                </Element>
+                <Element Column="1">
+                  <Text>Descongelação Manual (MD)</Text>
+                </Element>
+                <Element Column="2">
+                  <Text>Descongelação Automática (AD)</Text>
+                </Element>
+                <Element Column="3">
+                  <Text>Compressor Velocidade Variável (ADVS)</Text>
+                </Element>
+                <Element Column="4">
+                  <Text>Compressor Velocidade Variável (VCC)</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="1">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Largura Exterior</Text>
+                </Element>
+                <Element Column="">
+                  <Text>2200 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>2200 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>2200 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>2200 mm</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="2">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Altura Exterior</Text>
+                </Element>
+                <Element Column="">
+                  <Text>860 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>860 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>860 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>860 mm</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="3">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Profundidade Exterior</Text>
+                </Element>
+                <Element Column="">
+                  <Text>1000 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>1000 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>1000 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>1000 mm</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="4">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Capacidade Bruta</Text>
+                </Element>
+                <Element Column="">
+                  <Text>934 L</Text>
+                </Element>
+                <Element Column="">
+                  <Text>934 L</Text>
+                </Element>
+                <Element Column="">
+                  <Text>934 L</Text>
+                </Element>
+                <Element Column="">
+                  <Text>934 L</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="5">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Capacidade Líquida</Text>
+                </Element>
+                <Element Column="">
+                  <Text>833 L</Text>
+                </Element>
+                <Element Column="">
+                  <Text>833 L</Text>
+                </Element>
+                <Element Column="">
+                  <Text>833 L</Text>
+                </Element>
+                <Element Column="">
+                  <Text>833 L</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="6">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Área de Exposição</Text>
+                </Element>
+                <Element Column="">
+                  <Text>1,59 m2</Text>
+                </Element>
+                <Element Column="">
+                  <Text>1,59 m2</Text>
+                </Element>
+                <Element Column="">
+                  <Text>1,59 m2</Text>
+                </Element>
+                <Element Column="">
+                  <Text>1,59 m2</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="7">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Gás Refrigerante</Text>
+                </Element>
+                <Element Column="">
+                  <Text>R290</Text>
+                </Element>
+                <Element Column="">
+                  <Text>R290</Text>
+                </Element>
+                <Element Column="">
+                  <Text>R290</Text>
+                </Element>
+                <Element Column="">
+                  <Text>R290</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="8">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Classe Climática</Text>
+                </Element>
+                <Element Column="">
+                  <Text>4L1</Text>
+                </Element>
+                <Element Column="">
+                  <Text>3L1</Text>
+                </Element>
+                <Element Column="">
+                  <Text>3L1</Text>
+                </Element>
+                <Element Column="">
+                  <Text>3L1</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="9">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Características Energéticas</Text>
+                </Element>
+                <Element Column="">
+                  <Text>220-240V / 50Hz 2.2 A 430 W</Text>
+                </Element>
+                <Element Column="">
+                  <Text>220-240V / 50Hz  3.1 A 515 W</Text>
+                </Element>
+                <Element Column="">
+                  <Text>220-240V/ 50Hz 2.1 A 420 W</Text>
+                </Element>
+                <Element Column="">
+                  <Text>220-240V / 50-60Hz 1.45 A 334 W</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="10">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Consumo Energético</Text>
+                </Element>
+                <Element Column="">
+                  <Text>8.66 kWh/24hr</Text>
+                </Element>
+                <Element Column="">
+                  <Text>7.3 kWh/24hr</Text>
+                </Element>
+                <Element Column="">
+                  <Text>6.1 kWh/24hr</Text>
+                </Element>
+                <Element Column="">
+                  <Text>5.8 kWh/24hr</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="11">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Espessura de Isolamento</Text>
+                </Element>
+                <Element Column="">
+                  <Text>70 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>70 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>70 mm</Text>
+                </Element>
+                <Element Column="">
+                  <Text>70 mm</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="12">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Tipo de Tampa</Text>
+                </Element>
+                <Element Column="">
+                  <Text>Curva</Text>
+                </Element>
+                <Element Column="">
+                  <Text>Curva</Text>
+                </Element>
+                <Element Column="">
+                  <Text>Curva</Text>
+                </Element>
+                <Element Column="">
+                  <Text>Curva</Text>
+                </Element>
+              </RowElements>
+            </Row>
+            <Row Index ="13">
+              <RowElements>
+                <Element Column="0">
+                  <Text>Temperatura de Funcionamento</Text>
+                </Element>
+                <Element Column="">
+                  <Text>-24ºC to -16ºC</Text>
+                </Element>
+                <Element Column="">
+                  <Text>-24ºC to -16ºC</Text>
+                </Element>
+                <Element Column="">
+                  <Text>-24ºC to -16ºC</Text>
+                </Element>
+                <Element Column="">
+                  <Text>-24ºC to -16ºC</Text>
+                </Element>
+              </RowElements>
+            </Row>
+          </RowsArray>
+        </Language>
+      </LanguagesArray>
+    </Fridge>
+
+  </FridgesArray>
+  <GeneralInfoArray>
+    <GeneralInfo Name ="LINHA SMR CLASSIC">
+      <LanguagesArray>
+        <GeneralInfoLanguage Language ="Portugues">
+          <TextArray>
+            <GeneralInfoText Index ="0">
+              <TextTitle>Elevada área de exposição</TextTitle>
+              <TextDetails>-Elevada área de exposição - venda por impulso
+-Iluminação em LED, potencia impacto visual dos produtos estimulando o processo de compra
+              </TextDetails>
+            </GeneralInfoText>
+            <GeneralInfoText Index ="1">
+              <TextTitle>Conectar</TextTitle>
+              <TextDetails>-Fácil, económica e rápida instalação no ponto de venda
+-Possibilita personalização, alteração e otimização do layout no ponto de venda
+              </TextDetails>
+            </GeneralInfoText>
+            <GeneralInfoText Index ="2">
+              <TextTitle>Gás Refrigerante Amigo do Ambiente</TextTitle>
+              <TextDetails>Soluções amigas do ambiente, utilizando gás refrigerante de baixo impacto ambiental</TextDetails>
+            </GeneralInfoText>
+            <GeneralInfoText Index ="3">
+              <TextTitle>Elevado Desempenho</TextTitle>
+              <TextDetails>Solução desenvolviva para elevados desempenhos em refrigeração e conservação de produtos frescos, embalados e congelados</TextDetails>
+            </GeneralInfoText>
+            <GeneralInfoText Index ="4">
+              <TextTitle>Otimização logística</TextTitle>
+              <TextDetails>-Design desenvolvido para a otimização do espaço em loja
+-Elevado volume líquido e exposição de produto
+-Otimização e customização de layout inferior através de acessórios exclusivos
+              </TextDetails>
+            </GeneralInfoText>
+          </TextArray>
+        </GeneralInfoLanguage>
+        <GeneralInfoLanguage Language ="English">
+          <TextArray>
+            <GeneralInfoText Index ="0">
+              <TextTitle></TextTitle>
+              <TextDetails></TextDetails>
+            </GeneralInfoText>
+            <GeneralInfoText Index ="1">
+              <TextTitle></TextTitle>
+              <TextDetails></TextDetails>
+            </GeneralInfoText>
+            <GeneralInfoText Index ="2">
+              <TextTitle></TextTitle>
+              <TextDetails></TextDetails>
+            </GeneralInfoText>
+            <GeneralInfoText Index ="3">
+              <TextTitle></TextTitle>
+              <TextDetails></TextDetails>
+            </GeneralInfoText>
+            <GeneralInfoText Index ="4">
+              <TextTitle></TextTitle>
+              <TextDetails></TextDetails>
+            </GeneralInfoText>
+          </TextArray>
+        </GeneralInfoLanguage>
+      </LanguagesArray>
+    </GeneralInfo>
+
+    <GeneralInfo Name ="LINHA SMR LSL">
+      <LanguagesArray>
+        <GeneralInfoLanguage Language ="Portugues">
+          <TextArray>
+            <GeneralInfoText Index ="0">
+              <TextTitle>Elevada área de exposição</TextTitle>
+              <TextDetails>-Elevada área de exposição
+-Iluminação em LED, potencia impacto visual dos produtos estimulando o processo de compra
+              </TextDetails>
+            </GeneralInfoText>
+            <GeneralInfoText Index ="1">
+              <TextTitle>Conectar</TextTitle>
+              <TextDetails>-Fácil, económica e rápida instalação no ponto de venda
+-Possibilita personalização, alteração e otimização do layout no ponto de venda
+              </TextDetails>
+            </GeneralInfoText>
+            <GeneralInfoText Index ="2">
+              <TextTitle>Gás Refrigerante Amigo do Ambiente</TextTitle>
+              <TextDetails>Soluções amigas do ambiente, utilizando gás refrigerante com baixo impacto ambiental</TextDetails>
+            </GeneralInfoText>
+            <GeneralInfoText Index ="3">
+              <TextTitle>Elevado Desempenho</TextTitle>
+              <TextDetails>Solução desenvolviva para elevados desempenhos em refrigeração e conservação de produtos frescos, embalados e congelados</TextDetails>
+            </GeneralInfoText>
+            <GeneralInfoText Index ="4">
+              <TextTitle>Otimização logística</TextTitle>
+              <TextDetails>-Design desenvolvido para a otimização do espaço em loja
+-Elevado volume líquido e exposição de produto
+-Otimização e customização de layout inferior através de acessórios exclusivos
+              </TextDetails>
+            </GeneralInfoText>
+          </TextArray>
+        </GeneralInfoLanguage>
+        <GeneralInfoLanguage Language ="English">
+          <TextArray>
+            <GeneralInfoText Index ="0">
+              <TextTitle></TextTitle>
+              <TextDetails></TextDetails>
+            </GeneralInfoText>
+            <GeneralInfoText Index ="1">
+              <TextTitle></TextTitle>
+              <TextDetails></TextDetails>
+            </GeneralInfoText>
+            <GeneralInfoText Index ="2">
+              <TextTitle></TextTitle>
+              <TextDetails></TextDetails>
+            </GeneralInfoText>
+            <GeneralInfoText Index ="3">
+              <TextTitle></TextTitle>
+              <TextDetails></TextDetails>
+            </GeneralInfoText>
+            <GeneralInfoText Index ="4">
+              <TextTitle></TextTitle>
+              <TextDetails></TextDetails>
+            </GeneralInfoText>
+          </TextArray>
+        </GeneralInfoLanguage>
+      </LanguagesArray>
+    </GeneralInfo>
+
+    <GeneralInfo Name ="SMR DA">
+      <LanguagesArray>
+        <GeneralInfoLanguage Language ="Portugues">
+          <TextArray>
+            <GeneralInfoText Index ="0">
+              <TextTitle>Elevada área de exposição</TextTitle>
+              <TextDetails>-Elevada área de exposição, acesso 360º - venda por impulso
+-Iluminação em LED, potencia impacto visual dos produtos estimulando o processo de compra
+              </TextDetails>
+            </GeneralInfoText>
+            <GeneralInfoText Index ="1">
+              <TextTitle>Conectar</TextTitle>
+              <TextDetails>-Fácil, económica e rápida instalação no ponto de venda
+-Possibilita personalização, alteração e otimização do layout no ponto de venda
+              </TextDetails>
+            </GeneralInfoText>
+            <GeneralInfoText Index ="2">
+              <TextTitle>Gás Refrigerante Amigo do Ambiente</TextTitle>
+              <TextDetails>Soluções amigas do ambiente, utilizando gás refrigerante de baixo impacto ambiental</TextDetails>
+            </GeneralInfoText>
+            <GeneralInfoText Index ="3">
+              <TextTitle>Elevado Desempenho</TextTitle>
+              <TextDetails>Solução desenvolviva para elevados desempenhos em refrigeração e conservação de produtos frescos, embalados e congelados</TextDetails>
+            </GeneralInfoText>
+            <GeneralInfoText Index ="4">
+              <TextTitle>Otimização logística</TextTitle>
+              <TextDetails>-Design desenvolvido para a otimização do espaço em loja
+-Elevado volume líquido e exposição de produto
+-Otimização e customização de layout inferior através de acessórios exclusivos
+              </TextDetails>
+            </GeneralInfoText>
+          </TextArray>
+        </GeneralInfoLanguage>
+        <GeneralInfoLanguage Language ="English">
+          <TextArray>
+            <GeneralInfoText Index ="0">
+              <TextTitle></TextTitle>
+              <TextDetails></TextDetails>
+            </GeneralInfoText>
+            <GeneralInfoText Index ="1">
+              <TextTitle></TextTitle>
+              <TextDetails></TextDetails>
+            </GeneralInfoText>
+            <GeneralInfoText Index ="2">
+              <TextTitle></TextTitle>
+              <TextDetails></TextDetails>
+            </GeneralInfoText>
+            <GeneralInfoText Index ="3">
+              <TextTitle></TextTitle>
+              <TextDetails></TextDetails>
+            </GeneralInfoText>
+            <GeneralInfoText Index ="4">
+              <TextTitle></TextTitle>
+              <TextDetails></TextDetails>
+            </GeneralInfoText>
+          </TextArray>
+        </GeneralInfoLanguage>
+      </LanguagesArray>
+    </GeneralInfo>
+
+    <GeneralInfo Name ="WD 250">
+      <LanguagesArray>
+        <GeneralInfoLanguage Language ="Portugues">
+          <TextArray>
+            <GeneralInfoText Index ="0">
+              <TextTitle>Elevada área de exposição</TextTitle>
+              <TextDetails>-Elevada área de exposição, acesso 360º - venda por impulso
+-Iluminação em LED, potencia impacto visual dos produtos estimulando o processo de compra
+              </TextDetails>
+            </GeneralInfoText>
+            <GeneralInfoText Index ="1">
+              <TextTitle>Conectar</TextTitle>
+              <TextDetails>-Fácil, económica e rápida instalação no ponto de venda
+-Possibilita personalização, alteração e otimização do layout no ponto de venda
+              </TextDetails>
+            </GeneralInfoText>
+            <GeneralInfoText Index ="2">
+              <TextTitle>Gás Refrigerante Amigo do Ambiente</TextTitle>
+              <TextDetails>Soluções amigas do ambiente, utilizando gás refrigerante de baixo impacto ambiental</TextDetails>
+            </GeneralInfoText>
+            <GeneralInfoText Index ="3">
+              <TextTitle>Elevado Desempenho</TextTitle>
+              <TextDetails>Solução desenvolviva para elevados desempenhos em refrigeração e conservação de produtos frescos, embalados e congelados</TextDetails>
+            </GeneralInfoText>
+            <GeneralInfoText Index ="4">
+              <TextTitle>Otimização logística</TextTitle>
+              <TextDetails>-Design desenvolvido para a otimização do espaço em loja
+-Elevado volume líquido e exposição de produto
+-Otimização e customização de layout inferior através de acessórios exclusivos
+              </TextDetails>
+            </GeneralInfoText>
+          </TextArray>
+        </GeneralInfoLanguage>
+        <GeneralInfoLanguage Language ="English">
+          <TextArray>
+            <GeneralInfoText Index ="0">
+              <TextTitle></TextTitle>
+              <TextDetails></TextDetails>
+            </GeneralInfoText>
+            <GeneralInfoText Index ="1">
+              <TextTitle></TextTitle>
+              <TextDetails></TextDetails>
+            </GeneralInfoText>
+            <GeneralInfoText Index ="2">
+              <TextTitle></TextTitle>
+              <TextDetails></TextDetails>
+            </GeneralInfoText>
+            <GeneralInfoText Index ="3">
+              <TextTitle></TextTitle>
+              <TextDetails></TextDetails>
+            </GeneralInfoText>
+            <GeneralInfoText Index ="4">
+              <TextTitle></TextTitle>
+              <TextDetails></TextDetails>
+            </GeneralInfoText>
+          </TextArray>
+        </GeneralInfoLanguage>
+      </LanguagesArray>
+    </GeneralInfo>
+  </GeneralInfoArray>
+</FridgesData>

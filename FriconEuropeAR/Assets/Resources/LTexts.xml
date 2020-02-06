@@ -1,0 +1,525 @@
+<?xml version ="1.0" encoding="UTF-8"?>
+<LanguageTexts>
+
+  <TextCountriesArray>
+    <Language language ="Portugues">
+      <CountriesArray>
+        <Country name ="America">
+        <CountryName>Paises Continente Americano</CountryName>
+      </Country>
+        <Country name ="Asia">
+        <CountryName>Paises Asia e Oceania</CountryName>
+      </Country>
+        <Country name ="Europe">
+        <CountryName>Paises Europa</CountryName>
+      </Country>
+        <Country name ="Africa">
+        <CountryName>Países Africa</CountryName>
+      </Country>
+        <Country name ="Portugal">
+        <CountryName>Portugal</CountryName>
+      </Country>
+        <Country name ="Spain">
+        <CountryName>Espanha</CountryName>
+      </Country>
+      </CountriesArray>
+    </Language>
+    <Language language ="English">
+      <CountriesArray>
+        <Country name ="America">
+          <CountryName>America</CountryName>
+        </Country>
+        <Country name ="Asia">
+          <CountryName>Asia</CountryName>
+        </Country>
+        <Country name ="Europe">
+          <CountryName>Europe</CountryName>
+        </Country>
+        <Country name ="Africa">
+          <CountryName>Africa</CountryName>
+        </Country>
+        <Country name ="Portugal">
+          <CountryName>Portugal</CountryName>
+        </Country>
+        <Country name ="Spain">
+          <CountryName>Spain</CountryName>
+        </Country>
+      </CountriesArray>
+    </Language>
+  </TextCountriesArray>
+
+  <PopupMessageArray>
+    <PopupMessage language ="Portugues">
+      <Title>Sem Permissões</Title>
+      <Message>Faz login para obter permissões</Message>
+    </PopupMessage>
+    <PopupMessage language ="English">
+      <Title>No Permissions</Title>
+      <Message>Login to access feature</Message>
+    </PopupMessage>
+  </PopupMessageArray>
+
+  <LoginPopupMessageArray>
+    <LoginPopupMessage language ="Portugues">
+      <TitleSuccessful>Login Efetuado</TitleSuccessful>
+      <TitleWrongInfo>Informação errada</TitleWrongInfo>
+      <TitleNoAccount>Conta inexistente</TitleNoAccount>
+      <TopMessageSuccessful>Bem vindo</TopMessageSuccessful>
+      <TopMessageWrongInfo>Palavra passe errada</TopMessageWrongInfo>
+      <TopMessageNoAccount>Conta não encontrada</TopMessageNoAccount>
+      <BotMessageSuccessful>Tem agora acesso ás funcionalidades</BotMessageSuccessful>
+      <BotMessageWrongInfo>Reintroduza a palavra passe </BotMessageWrongInfo>
+      <BotMessageNoAccount>Verifique o email introduzido</BotMessageNoAccount>
+    </LoginPopupMessage>
+    <LoginPopupMessage language ="English">
+      <TitleSuccessful>Login Successful</TitleSuccessful>
+      <TitleWrongInfo>Wrong Password</TitleWrongInfo>
+      <TitleNoAccount>Invalid email</TitleNoAccount>
+      <TopMessageSuccessful>Welcome</TopMessageSuccessful>
+      <TopMessageWrongInfo>The password you introduced invalid</TopMessageWrongInfo>
+      <TopMessageNoAccount>The email you introduced is invalid</TopMessageNoAccount>
+      <BotMessageSuccessful>You now have access to all features</BotMessageSuccessful>
+      <BotMessageWrongInfo>Reintroduce the password</BotMessageWrongInfo>
+      <BotMessageNoAccount>Reintroduce the email</BotMessageNoAccount>
+    </LoginPopupMessage>
+  </LoginPopupMessageArray>
+
+  <RegistrationPopupMessageArray>
+    <RegistrationPopupMessage language ="Portugues">
+      <TitleSuccessful>Registo completo</TitleSuccessful>
+      <TitleInvalid>Erro ao registar</TitleInvalid>
+      <MessageSuccessful>Faça login para aceder as funcionalidades</MessageSuccessful>
+      <MessageInvalid>Alguns dados inseridos não são validos</MessageInvalid>
+    </RegistrationPopupMessage>
+    <RegistrationPopupMessage language ="English">
+      <TitleSuccessful>Registration Complete</TitleSuccessful>
+      <TitleInvalid>Registration Failed</TitleInvalid>
+      <MessageSuccessful>Login to access all features</MessageSuccessful>
+      <MessageInvalid>Some info inserted was not valid</MessageInvalid>
+    </RegistrationPopupMessage>
+  </RegistrationPopupMessageArray>
+
+  <LanguageSelectArray>
+    <LanguageSelect language = "Portugues">
+      <Title>Escolher lingua</Title>
+      <Button>Aceitar</Button>
+    </LanguageSelect>
+    <LanguageSelect language = "English">
+      <Title>Select Language</Title>
+      <Button>Accept</Button>
+    </LanguageSelect>
+  </LanguageSelectArray>
+
+  <TermsOfServiceArray>
+    <TermsOfService language ="Portugues">
+      <Title>Política de Privacidade</Title>
+      <Terms><![CDATA[
+<size=60><b>1. A proteção da privacidade e dos dados pessoais é um compromisso da FRICON</b></size>
+A proteção da privacidade e dos dados pessoais constitui um compromisso fundamental das empresas do Grupo FRICON e suas afiliadas (FRICON), para com o titular de dados pessoais (também, «titular») que utiliza as plataformas digitais, canais de comunicação e distribuição e/ou os serviços FRICON.
+
+Com a aplicação do novo Regulamento Geral sobre a Proteção de Dados (RGPD), a partir de 25 de maio de 2018, a FRICON vem manifestar que se mantém fortemente empenhada e comprometida na proteção da privacidade e dos dados pessoais do respetivo titular que utiliza as plataformas digitais , canais de comunicação e distribuição e/ou os serviços FRICON e procede, nessa medida, à atualização da sua Política de Privacidade, em conformidade com todos os princípios e normas da proteção de dados que sustentam o RGPD.
+
+<size=60><b>2. Regulamento Geral sobre a Proteção de Dados</b></size>
+O novo RGPD estabelece as regras relativas ao tratamento, por uma pessoa, uma empresa ou uma organização, de dados pessoais relativos a pessoas na União Europeia (UE).
+
+O RGPD protege os dados pessoais independentemente da tecnologia utilizada para o tratamento desses dados, a proteção é neutra em termos tecnológicos, e aplica-se tanto ao tratamento automatizado como ao tratamento manual, desde que os dados sejam organizados de acordo com critérios pré definidos (por exemplo, por ordem alfabética). Também é irrelevante o modo como os dados são armazenados, num sistema informático, através de videovigilância, ou em papel; em todos estes casos, os dados pessoais estão sujeitos aos requisitos de proteção previstos no RGPD.
+
+<size=60><b>3. Quem é o responsável pelo tratamento de dados?</b></size>
+A FRIGOCON – Indústria de Frio e Congelação, S.A, com sede em Rua das Calçadas, 568, 4480-492 Touguinha, Vila do Conde, Portugal, pessoa coletiva 500 606 552, capital social € 10.000.000,00 (dez milhões de euros), é a responsável pelo tratamento de dados pessoais, no âmbito do RGPD.
+
+<size=60><b>4. Encarregado da Proteção de Dados</b></size>
+A FRICON tem um Encarregado da Proteção de Dados (EPD ou Data Protection Officer), que (i) presta informação e aconselha o responsável pelo tratamento ou o subcontratante sobre as suas obrigações no âmbito da privacidade e proteção de dados; (ii) controla a conformidade do tratamento de dados com as normas aplicáveis; (iii) presta aconselhamento, quando tal lhe for solicitado, no que respeita à avaliação de impacto sobre a proteção de dados e controla a sua realização; (iv) é um ponto de contacto com o titular de dados pessoais para esclarecimento de questões relativas ao tratamento dos seus dados pela FRICON; e (v) é o ponto de contacto para a autoridade de controlo (Comissão Nacional de Proteção de Dados – CNPD) sobre questões relacionadas com o tratamento, cooperando com esta entidade.
+
+O Encarregado da Proteção de Dados da FRICON pode ser contactado através do e-mail marketing@fricon.pt.
+
+<size=60><b>5. Tratamento de dados pessoais, âmbito e alteração da Política de Privacidade</b></size>
+Ao disponibilizar os seus dados pessoais à FRICON, o titular de dados pessoais consente que os mesmos sejam tratados de acordo com a presente Política de Privacidade.
+
+A presente Política de Privacidade aplica-se aos dados que tenham sido diretamente fornecidos pelo respetivo titular ou recolhidos em acessos do titular às plataformas digitais, canais de comunicação e distribuição e/ou os serviços FRICON. Assim, alerta-se para que as plataformas digitais, canais de comunicação e distribuição e/ou os serviços FRICON podem conter links (hiperligações) para outras plataformas digitais e remeter para conteúdos de terceiros que não estão abrangidos pela Política de Privacidade da FRICON, pelo que é aconselhável que sempre que o titular de dados pessoais navegue nessas plataformas se informe do conteúdo das respetivas políticas de privacidade, bem como dos termos e condições aplicáveis.
+
+A FRICON reserva-se o direito de alterar a sua Política de Privacidade, pelo que aconselhamos a consulta regular do presente documento..
+
+<size=60><b>6. Que tipo de informação é que a FRICON recolhe?</b></size>
+A FRICON recolhe dois géneros de informação: informação pessoal e informação anónima. A informação anónima ocorre enquanto o titular de dados pessoais visita as plataformas digitais e tem como objetivo melhorar o funcionamento do mesmo, incluindo a gestão e a priorização de conteúdos. A informação pessoal é fornecida voluntariamente pelo titular de dados pessoais aquando do registo facultativo. Todos os dados recolhidos são processados de forma automática..
+
+O registo serve para o titular de dados pessoais aceder a procesamento documental (faturação, etc…), aos serviços de subscrição de newsletters FRICON, comentários e outras funcionalidades disponibilizadas pela FRICON.
+
+Para prestar determinados serviços, a FRICON pode ter de tornar informação pessoal e anónima disponível a terceiros. Isto só acontecerá, contudo, nestas circunstâncias específicas:
+
+a) Com o consentimento expresso do titular de dados pessoais;
+b) Quando de boa-fé acreditamos ser requerido por lei;
+c) Quando de boa-fé acreditamos que decorre de estipulação contratual;
+d) Quando de boa-fé acreditamos ser necessário para proteger os nossos direitos ou propriedade;
+e) Quando há transmissão a algum sucessor ou comprador, numa fusão, aquisição, liquidação, dissolução ou venda de ativos.
+
+O consentimento do titular de dados pessoais não será requerido para divulgação nas situações referidas nas alíneas b) a e). Em qualquer situação, procuraremos notificá-lo na medida em que tal seja permitido por lei.
+
+<size=60><b>7. O que são dados pessoais?</b></size>
+Dados pessoais são informação relativa a uma pessoa identificada ou identificável. É considerada identificável a pessoa que possa ser identificada direta ou indiretamente. Também constituem dados pessoais o conjunto de informações distintas que podem levar à identificação de uma determinada pessoa.
+
+Exemplos de dados pessoais:
+
+    -Nome e apelido;
+    -Endereço de uma residência;
+    -Endereço de correio eletrónico;
+    -Número de um cartão de identificação;
+    -Dados de localização (por exemplo, a função de dados de localização num telemóvel);
+    -Endereço IP (protocolo de internet);
+    -Cookies;
+    -Identificador de publicidade do seu telefone;
+    -Dados detidos por um hospital ou médico, que permitam identificar uma pessoa de forma inequívoca;
+    -Som ou imagem.
+
+<size=60><b>8. Quem é o titular de dados pessoais?</b></size>
+O titular de dados pessoais é a pessoa singular a quem os dados dizem respeito e que utilizou as plataformas digitais, canais de comunicação e distribuição e/ou os serviços FRICON.
+
+<size=60><b>9. Categorias de dados pessoais</b></size>
+    <b>Identificativos principais</b> – Nome, n.º de Identificação civil ou fiscal, n.º de Passaporte, data de nascimento, estado civil, morada, telefone, endereço de e-mail, nacionalidade, fotografias e ficheiros do dispositivo móvel, dados relativos ao agregado familiar, dados relativos ao parentesco.
+    <b>Identificativos complementares</b> –  IBAN, geo-localização, grau de escolaridade, género, profissão, dados sócio-económicos, ID pessoal, endereço IP, endereços de redes sociais, tipo de dispositivo móvel, sistema operativo, versão do sistema operativo.
+
+<size=60><b>10. Para que finalidades a FRICON trata os seus dados pessoais?</b></size>
+    <b>-</b>Prestação de serviços de informação e comunicação,  plataformas digitais:
+        Participações interativas, participação em concursos, análise de perfis de navegação, adaptação e desenvolvimento de novos produtos, criação de conteúdos ou serviços informativos (notificações, newsletters, plataformas digitais de programas e apps do conteúdo).
+        Análise de perfis de navegação, adaptação e desenvolvimento de novos produtos, conteúdos ou serviços informativos, (notificações, newsletters, plataformas digitais e dossiês informativos  e apps do conteúdo).
+    <b>-</b>Desenvolvimento de conteúdos:
+        Análise de perfis de navegação, produtos, adaptação e desenvolvimento de novos produtos, conteúdos ou serviços.
+    <b>-</b>Engenharia, Sistemas e Tecnologia:
+        Respostas técnicas e reclamações.
+    <b>-</b>Controlo da segurança física das instalações:
+        Controlo de acesso às instalações, segurança nos edifícios por técnicos especializados, videovigilância.
+    <b>-</b>Comercial, Marketing e Comunicação:
+        Utilizadores das plataformas digitais, canais de comunicação e distribuição e/ou os serviços FRICON.
+        Registo de convidados e visitantes, envio de convites.
+Solicitaremos o seu consentimento expresso antes de utilizarmos as informações para finalidades diferentes daquelas expressamente previstas na presente Política de Privacidade.
+
+<size=60><b>11. Quando e como recolhemos os seus dados pessoais?</b></size>
+Recolhemos os dados pessoais, nomeadamente, quando contacta a FRICON (pedidos de informação, cotação, etc) ou adquire produtos ou serviços FRICON, quando descarrega conteúdos ou utiliza serviços e aplicações FRICON, através de contactos com call center (linhas de atendimento) ou linhas diretas (chamadas telefónicas). A recolha pode ser feita oralmente, por escrito ou através das plataformas digitais FRICON.
+
+<size=60><b>12. Qual é a base para o tratamento dos seus dados pessoais?</b></size>
+Consentimento
+O seu consentimento terá de ser expresso – por escrito, oralmente ou através da validação de uma opção – e prévio, prestado de forma livre, informada, específica e inequívoca.
+
+Execução de contrato e diligências pré-contratuais
+Quando o tratamento de dados pessoais seja necessário para a celebração, execução e gestão de contrato celebrado com a FRICON, como por exemplo para estabelecimento de relação comercial; ou
+
+Cumprimento de obrigação legal
+Quando o tratamento de dados pessoais seja necessário para cumprir uma obrigação legal a que a FRICON esteja sujeita, como, por exemplo, a comunicação de dados de identificação ou de tráfego a entidades policiais, judiciais, fiscais ou reguladoras ou de dados de localização para assegurar serviços de emergência; ou
+
+Interesse legítimo
+O tratamento de dados pessoais pela FRICON pode ser justificado por motivos de interesse legítimo relacionados com a execução das tarefas relacionadas com a sua atividade enquanto empresa, como por exemplo o tratamento de dados para melhoria de qualidade de serviço, a deteção de fraude e proteção de receita e quando os nossos motivos para a sua utilização devam prevalecer sobre os seus direitos de proteção de dados.
+
+<size=60><b>13. Durante quanto tempo a FRICON trata e conserva os seus dados pessoais?</b></size>
+A FRICON trata e conserva os seus dados pessoais conforme as finalidades para que os mesmos são tratados e apenas pelo período de tempo necessário para o cumprimento das finalidades que motivaram a sua recolha e conservação, e sempre de acordo com a lei, as orientações e as decisões da CNPD, ou, consoante o que for aplicável, até que exerça o seu direito de oposição, direito a ser esquecido ou retire o consentimento.
+
+Há situações em que a lei determina a conservação dos dados por um período de tempo mínimo, designadamente: por um ano, os dados de tráfego e localização para efeitos de investigação, deteção e repressão de crimes graves ou por 10 anos os dados necessários para informação à Autoridade Tributária.
+
+Depois de decorrido o respetivo período de conservação, a FRICON eliminará ou anonimizará os dados sempre que os mesmos não devam ser conservados para finalidade distinta que possa subsistir.
+
+<size=60><b>14. Direitos do titular de dados pessoais</b></size>
+O titular de dados pessoais tem direitos de informação, acesso e retificação ou apagamento de dados pessoais e o direito à portabilidade dos dados, ao direito de limitar ou opor ao tratamento dos seus dados, no âmbito e nos termos do RGPD e da demais legislação aplicável.
+
+O titular poderá retirar, a todo o tempo, o consentimento que tenha dado para o tratamento dos seus dados pessoais, no enquadramento do RGPD. A revogação do consentimento não afetará a licitude do tratamento dos dados pessoais que até aqui tenha sido efetuado, com base no consentimento que tenha previamente prestado.
+
+Tem também o direito de apresentar reclamação relativamente ao tratamento dos seus dados dirigida à CNPD.
+
+Exerça os seus direitos através dos seguintes contactos:
+<b>E-mail</b>
+marketing@fricon.pt
+
+<b>Carta</b>
+
+FRIGOCON – Indústria de Frio e Congelação, S.A. (FRICON)
+
+Rua das Calçadas, 568, 4480-492 Touguinha, Vila do Conde, Portugal
+
+O exercício dos direitos é gratuito, exceto se se tratar de um pedido manifestamente infundado ou excessivo ou injustificadamente reiterado, caso em que poderá ser cobrada uma taxa razoável tendo em conta os custos.
+
+A resposta aos pedidos deverá ser prestada, sem demora injustificada, no prazo de um mês a contar da receção do pedido, salvo se for um pedido especialmente complexo ou ocorrer em circunstâncias excecionais. Esse prazo pode ser prorrogado até dois meses, quando for necessário, tendo em conta a complexidade do pedido e o número de pedidos recebidos.
+
+No âmbito do seu pedido, poderá ser-lhe pedido que faça prova da sua identidade de modo a assegurar que a partilha dos dados pessoais é apenas feita com o respetivo titular.
+
+<size=60><b>15. Transmissão de dados pessoais</b></size>
+Os dados pessoais podem ser transmitidos a subcontratantes para que estes os tratem em nome e por conta da FRICON. Neste caso, a FRICON tomará as medidas contratuais necessárias para procurar garantir que os subcontratantes respeitam e protegem os dados pessoais do titular.
+
+Os dados podem também ser transmitidos a terceiros – entidades distintas da FRICON ou dos subcontratantes – como por exemplo empresas dentro da FRICON, empresas com quem a FRICON desenvolva parcerias, no caso de o titular ter consentido – ou entidades a quem os dados tenham de ser comunicados por força da lei, como a Autoridade Tributária, autoridades judiciárias, órgãos de polícia criminal, entre outras.
+
+A FRICON pode ter de, ocasionalmente, transferir os seus dados pessoais para um país terceiro fora do espaço da UE e que não integre a lista de países que a UE já considerou reunir níveis de proteção dos dados pessoais adequados. Nesses casos, a FRICON assegurará que as transferências de dados se realizam no estrito cumprimento das normas legais aplicáveis.
+
+<size=60><b>16. Responsabilidade sobre plataformas digitais, canais de comunicação e distribuição, serviços FRICON e terceiros</b></size>
+A FRICON não se responsabiliza pelo conteúdo acedido através de qualquer link que leve o titular de dados pessoais a navegar fora das plataformas digitais FRICON e pelo tratamento de dados pessoais nestes efetuado, sempre que tais links sejam da responsabilidade de terceiros. Os sítios da internet e conteúdos de terceiros não são objeto da presente Política de Privacidade, pelo que aconselhamos que sempre que navegue nesses sítios procure e leia as políticas de privacidade, bem como os termos e condições aplicáveis.
+
+<size=60><b>17. Quais os procedimentos de segurança que garantem a proteção dos seus dados?</b></size>
+A FRICON toma todas as precauções necessárias e legalmente exigidas no sentido de garantir a privacidade dos dados pessoais tratados e/ou transmitidos através das suas plataformas digitais. Estas precauções garantem a segurança online e offline dessa informação.
+
+Sempre que seja recolhida ou utilizada informação sensível, os dados serão encriptados através do protocolo SSL. Esta tecnologia designada de Secure Socket Layer é utilizada para melhorar a segurança da transmissão de dados através da Internet, encriptando e protegendo dados e informação sensível com recurso ao protocolo HTTPS. O SSL garante ao titular de dados pessoais que os dados não serão intercetados de forma fraudulenta e que toda a informação é tratada com o máximo de segurança.
+
+<size=60><b>18. Dúvidas?</b></size>
+Se tiver qualquer dúvida sobre algum dos temas abordado no presente documento, agradecemos que nos contacte para:
+
+<b>E-mail</b>
+marketing@fricon.pt
+
+<b>Carta</b>
+
+FRIGOCON – Indústria de Frio e Congelação, S.A. (FRICON)
+
+Rua das Calçadas, 568, 4480-492 Touguinha, Vila do Conde, Portugal]]>
+      </Terms>
+      <AcceptTerms>Li e aceito os termos e condições.</AcceptTerms>
+      <Button>Aceitar</Button>
+    </TermsOfService>
+    <TermsOfService language ="English">
+      <Title>Terms of Service</Title>
+      <Terms><![CDATA[
+<size=60><b>1. A proteção da privacidade e dos dados pessoais é um compromisso da FRICON</b></size>
+A proteção da privacidade e dos dados pessoais constitui um compromisso fundamental das empresas do Grupo FRICON e suas afiliadas (FRICON), para com o titular de dados pessoais (também, «titular») que utiliza as plataformas digitais, canais de comunicação e distribuição e/ou os serviços FRICON.
+
+Com a aplicação do novo Regulamento Geral sobre a Proteção de Dados (RGPD), a partir de 25 de maio de 2018, a FRICON vem manifestar que se mantém fortemente empenhada e comprometida na proteção da privacidade e dos dados pessoais do respetivo titular que utiliza as plataformas digitais , canais de comunicação e distribuição e/ou os serviços FRICON e procede, nessa medida, à atualização da sua Política de Privacidade, em conformidade com todos os princípios e normas da proteção de dados que sustentam o RGPD.
+
+<size=60><b>2. Regulamento Geral sobre a Proteção de Dados</b></size>
+O novo RGPD estabelece as regras relativas ao tratamento, por uma pessoa, uma empresa ou uma organização, de dados pessoais relativos a pessoas na União Europeia (UE).
+
+O RGPD protege os dados pessoais independentemente da tecnologia utilizada para o tratamento desses dados, a proteção é neutra em termos tecnológicos, e aplica-se tanto ao tratamento automatizado como ao tratamento manual, desde que os dados sejam organizados de acordo com critérios pré definidos (por exemplo, por ordem alfabética). Também é irrelevante o modo como os dados são armazenados, num sistema informático, através de videovigilância, ou em papel; em todos estes casos, os dados pessoais estão sujeitos aos requisitos de proteção previstos no RGPD.
+
+<size=60><b>3. Quem é o responsável pelo tratamento de dados?</b></size>
+A FRIGOCON – Indústria de Frio e Congelação, S.A, com sede em Rua das Calçadas, 568, 4480-492 Touguinha, Vila do Conde, Portugal, pessoa coletiva 500 606 552, capital social € 10.000.000,00 (dez milhões de euros), é a responsável pelo tratamento de dados pessoais, no âmbito do RGPD.
+
+<size=60><b>4. Encarregado da Proteção de Dados</b></size>
+A FRICON tem um Encarregado da Proteção de Dados (EPD ou Data Protection Officer), que (i) presta informação e aconselha o responsável pelo tratamento ou o subcontratante sobre as suas obrigações no âmbito da privacidade e proteção de dados; (ii) controla a conformidade do tratamento de dados com as normas aplicáveis; (iii) presta aconselhamento, quando tal lhe for solicitado, no que respeita à avaliação de impacto sobre a proteção de dados e controla a sua realização; (iv) é um ponto de contacto com o titular de dados pessoais para esclarecimento de questões relativas ao tratamento dos seus dados pela FRICON; e (v) é o ponto de contacto para a autoridade de controlo (Comissão Nacional de Proteção de Dados – CNPD) sobre questões relacionadas com o tratamento, cooperando com esta entidade.
+
+O Encarregado da Proteção de Dados da FRICON pode ser contactado através do e-mail marketing@fricon.pt.
+
+<size=60><b>5. Tratamento de dados pessoais, âmbito e alteração da Política de Privacidade</b></size>
+Ao disponibilizar os seus dados pessoais à FRICON, o titular de dados pessoais consente que os mesmos sejam tratados de acordo com a presente Política de Privacidade.
+
+A presente Política de Privacidade aplica-se aos dados que tenham sido diretamente fornecidos pelo respetivo titular ou recolhidos em acessos do titular às plataformas digitais, canais de comunicação e distribuição e/ou os serviços FRICON. Assim, alerta-se para que as plataformas digitais, canais de comunicação e distribuição e/ou os serviços FRICON podem conter links (hiperligações) para outras plataformas digitais e remeter para conteúdos de terceiros que não estão abrangidos pela Política de Privacidade da FRICON, pelo que é aconselhável que sempre que o titular de dados pessoais navegue nessas plataformas se informe do conteúdo das respetivas políticas de privacidade, bem como dos termos e condições aplicáveis.
+
+A FRICON reserva-se o direito de alterar a sua Política de Privacidade, pelo que aconselhamos a consulta regular do presente documento..
+
+<size=60><b>6. Que tipo de informação é que a FRICON recolhe?</b></size>
+A FRICON recolhe dois géneros de informação: informação pessoal e informação anónima. A informação anónima ocorre enquanto o titular de dados pessoais visita as plataformas digitais e tem como objetivo melhorar o funcionamento do mesmo, incluindo a gestão e a priorização de conteúdos. A informação pessoal é fornecida voluntariamente pelo titular de dados pessoais aquando do registo facultativo. Todos os dados recolhidos são processados de forma automática..
+
+O registo serve para o titular de dados pessoais aceder a procesamento documental (faturação, etc…), aos serviços de subscrição de newsletters FRICON, comentários e outras funcionalidades disponibilizadas pela FRICON.
+
+Para prestar determinados serviços, a FRICON pode ter de tornar informação pessoal e anónima disponível a terceiros. Isto só acontecerá, contudo, nestas circunstâncias específicas:
+
+a) Com o consentimento expresso do titular de dados pessoais;
+b) Quando de boa-fé acreditamos ser requerido por lei;
+c) Quando de boa-fé acreditamos que decorre de estipulação contratual;
+d) Quando de boa-fé acreditamos ser necessário para proteger os nossos direitos ou propriedade;
+e) Quando há transmissão a algum sucessor ou comprador, numa fusão, aquisição, liquidação, dissolução ou venda de ativos.
+
+O consentimento do titular de dados pessoais não será requerido para divulgação nas situações referidas nas alíneas b) a e). Em qualquer situação, procuraremos notificá-lo na medida em que tal seja permitido por lei.
+
+<size=60><b>7. O que são dados pessoais?</b></size>
+Dados pessoais são informação relativa a uma pessoa identificada ou identificável. É considerada identificável a pessoa que possa ser identificada direta ou indiretamente. Também constituem dados pessoais o conjunto de informações distintas que podem levar à identificação de uma determinada pessoa.
+
+Exemplos de dados pessoais:
+
+    -Nome e apelido;
+    -Endereço de uma residência;
+    -Endereço de correio eletrónico;
+    -Número de um cartão de identificação;
+    -Dados de localização (por exemplo, a função de dados de localização num telemóvel);
+    -Endereço IP (protocolo de internet);
+    -Cookies;
+    -Identificador de publicidade do seu telefone;
+    -Dados detidos por um hospital ou médico, que permitam identificar uma pessoa de forma inequívoca;
+    -Som ou imagem.
+
+<size=60><b>8. Quem é o titular de dados pessoais?</b></size>
+O titular de dados pessoais é a pessoa singular a quem os dados dizem respeito e que utilizou as plataformas digitais, canais de comunicação e distribuição e/ou os serviços FRICON.
+
+<size=60><b>9. Categorias de dados pessoais</b></size>
+    <b>Identificativos principais</b> – Nome, n.º de Identificação civil ou fiscal, n.º de Passaporte, data de nascimento, estado civil, morada, telefone, endereço de e-mail, nacionalidade, fotografias e ficheiros do dispositivo móvel, dados relativos ao agregado familiar, dados relativos ao parentesco.
+    <b>Identificativos complementares</b> –  IBAN, geo-localização, grau de escolaridade, género, profissão, dados sócio-económicos, ID pessoal, endereço IP, endereços de redes sociais, tipo de dispositivo móvel, sistema operativo, versão do sistema operativo.
+
+<size=60><b>10. Para que finalidades a FRICON trata os seus dados pessoais?</b></size>
+    <b>-</b>Prestação de serviços de informação e comunicação,  plataformas digitais:
+        Participações interativas, participação em concursos, análise de perfis de navegação, adaptação e desenvolvimento de novos produtos, criação de conteúdos ou serviços informativos (notificações, newsletters, plataformas digitais de programas e apps do conteúdo).
+        Análise de perfis de navegação, adaptação e desenvolvimento de novos produtos, conteúdos ou serviços informativos, (notificações, newsletters, plataformas digitais e dossiês informativos  e apps do conteúdo).
+    <b>-</b>Desenvolvimento de conteúdos:
+        Análise de perfis de navegação, produtos, adaptação e desenvolvimento de novos produtos, conteúdos ou serviços.
+    <b>-</b>Engenharia, Sistemas e Tecnologia:
+        Respostas técnicas e reclamações.
+    <b>-</b>Controlo da segurança física das instalações:
+        Controlo de acesso às instalações, segurança nos edifícios por técnicos especializados, videovigilância.
+    <b>-</b>Comercial, Marketing e Comunicação:
+        Utilizadores das plataformas digitais, canais de comunicação e distribuição e/ou os serviços FRICON.
+        Registo de convidados e visitantes, envio de convites.
+Solicitaremos o seu consentimento expresso antes de utilizarmos as informações para finalidades diferentes daquelas expressamente previstas na presente Política de Privacidade.
+
+<size=60><b>11. Quando e como recolhemos os seus dados pessoais?</b></size>
+Recolhemos os dados pessoais, nomeadamente, quando contacta a FRICON (pedidos de informação, cotação, etc) ou adquire produtos ou serviços FRICON, quando descarrega conteúdos ou utiliza serviços e aplicações FRICON, através de contactos com call center (linhas de atendimento) ou linhas diretas (chamadas telefónicas). A recolha pode ser feita oralmente, por escrito ou através das plataformas digitais FRICON.
+
+<size=60><b>12. Qual é a base para o tratamento dos seus dados pessoais?</b></size>
+Consentimento
+O seu consentimento terá de ser expresso – por escrito, oralmente ou através da validação de uma opção – e prévio, prestado de forma livre, informada, específica e inequívoca.
+
+Execução de contrato e diligências pré-contratuais
+Quando o tratamento de dados pessoais seja necessário para a celebração, execução e gestão de contrato celebrado com a FRICON, como por exemplo para estabelecimento de relação comercial; ou
+
+Cumprimento de obrigação legal
+Quando o tratamento de dados pessoais seja necessário para cumprir uma obrigação legal a que a FRICON esteja sujeita, como, por exemplo, a comunicação de dados de identificação ou de tráfego a entidades policiais, judiciais, fiscais ou reguladoras ou de dados de localização para assegurar serviços de emergência; ou
+
+Interesse legítimo
+O tratamento de dados pessoais pela FRICON pode ser justificado por motivos de interesse legítimo relacionados com a execução das tarefas relacionadas com a sua atividade enquanto empresa, como por exemplo o tratamento de dados para melhoria de qualidade de serviço, a deteção de fraude e proteção de receita e quando os nossos motivos para a sua utilização devam prevalecer sobre os seus direitos de proteção de dados.
+
+<size=60><b>13. Durante quanto tempo a FRICON trata e conserva os seus dados pessoais?</b></size>
+A FRICON trata e conserva os seus dados pessoais conforme as finalidades para que os mesmos são tratados e apenas pelo período de tempo necessário para o cumprimento das finalidades que motivaram a sua recolha e conservação, e sempre de acordo com a lei, as orientações e as decisões da CNPD, ou, consoante o que for aplicável, até que exerça o seu direito de oposição, direito a ser esquecido ou retire o consentimento.
+
+Há situações em que a lei determina a conservação dos dados por um período de tempo mínimo, designadamente: por um ano, os dados de tráfego e localização para efeitos de investigação, deteção e repressão de crimes graves ou por 10 anos os dados necessários para informação à Autoridade Tributária.
+
+Depois de decorrido o respetivo período de conservação, a FRICON eliminará ou anonimizará os dados sempre que os mesmos não devam ser conservados para finalidade distinta que possa subsistir.
+
+<size=60><b>14. Direitos do titular de dados pessoais</b></size>
+O titular de dados pessoais tem direitos de informação, acesso e retificação ou apagamento de dados pessoais e o direito à portabilidade dos dados, ao direito de limitar ou opor ao tratamento dos seus dados, no âmbito e nos termos do RGPD e da demais legislação aplicável.
+
+O titular poderá retirar, a todo o tempo, o consentimento que tenha dado para o tratamento dos seus dados pessoais, no enquadramento do RGPD. A revogação do consentimento não afetará a licitude do tratamento dos dados pessoais que até aqui tenha sido efetuado, com base no consentimento que tenha previamente prestado.
+
+Tem também o direito de apresentar reclamação relativamente ao tratamento dos seus dados dirigida à CNPD.
+
+Exerça os seus direitos através dos seguintes contactos:
+<b>E-mail</b>
+marketing@fricon.pt
+
+<b>Carta</b>
+
+FRIGOCON – Indústria de Frio e Congelação, S.A. (FRICON)
+
+Rua das Calçadas, 568, 4480-492 Touguinha, Vila do Conde, Portugal
+
+O exercício dos direitos é gratuito, exceto se se tratar de um pedido manifestamente infundado ou excessivo ou injustificadamente reiterado, caso em que poderá ser cobrada uma taxa razoável tendo em conta os custos.
+
+A resposta aos pedidos deverá ser prestada, sem demora injustificada, no prazo de um mês a contar da receção do pedido, salvo se for um pedido especialmente complexo ou ocorrer em circunstâncias excecionais. Esse prazo pode ser prorrogado até dois meses, quando for necessário, tendo em conta a complexidade do pedido e o número de pedidos recebidos.
+
+No âmbito do seu pedido, poderá ser-lhe pedido que faça prova da sua identidade de modo a assegurar que a partilha dos dados pessoais é apenas feita com o respetivo titular.
+
+<size=60><b>15. Transmissão de dados pessoais</b></size>
+Os dados pessoais podem ser transmitidos a subcontratantes para que estes os tratem em nome e por conta da FRICON. Neste caso, a FRICON tomará as medidas contratuais necessárias para procurar garantir que os subcontratantes respeitam e protegem os dados pessoais do titular.
+
+Os dados podem também ser transmitidos a terceiros – entidades distintas da FRICON ou dos subcontratantes – como por exemplo empresas dentro da FRICON, empresas com quem a FRICON desenvolva parcerias, no caso de o titular ter consentido – ou entidades a quem os dados tenham de ser comunicados por força da lei, como a Autoridade Tributária, autoridades judiciárias, órgãos de polícia criminal, entre outras.
+
+A FRICON pode ter de, ocasionalmente, transferir os seus dados pessoais para um país terceiro fora do espaço da UE e que não integre a lista de países que a UE já considerou reunir níveis de proteção dos dados pessoais adequados. Nesses casos, a FRICON assegurará que as transferências de dados se realizam no estrito cumprimento das normas legais aplicáveis.
+
+<size=60><b>16. Responsabilidade sobre plataformas digitais, canais de comunicação e distribuição, serviços FRICON e terceiros</b></size>
+A FRICON não se responsabiliza pelo conteúdo acedido através de qualquer link que leve o titular de dados pessoais a navegar fora das plataformas digitais FRICON e pelo tratamento de dados pessoais nestes efetuado, sempre que tais links sejam da responsabilidade de terceiros. Os sítios da internet e conteúdos de terceiros não são objeto da presente Política de Privacidade, pelo que aconselhamos que sempre que navegue nesses sítios procure e leia as políticas de privacidade, bem como os termos e condições aplicáveis.
+
+<size=60><b>17. Quais os procedimentos de segurança que garantem a proteção dos seus dados?</b></size>
+A FRICON toma todas as precauções necessárias e legalmente exigidas no sentido de garantir a privacidade dos dados pessoais tratados e/ou transmitidos através das suas plataformas digitais. Estas precauções garantem a segurança online e offline dessa informação.
+
+Sempre que seja recolhida ou utilizada informação sensível, os dados serão encriptados através do protocolo SSL. Esta tecnologia designada de Secure Socket Layer é utilizada para melhorar a segurança da transmissão de dados através da Internet, encriptando e protegendo dados e informação sensível com recurso ao protocolo HTTPS. O SSL garante ao titular de dados pessoais que os dados não serão intercetados de forma fraudulenta e que toda a informação é tratada com o máximo de segurança.
+
+<size=60><b>18. Dúvidas?</b></size>
+Se tiver qualquer dúvida sobre algum dos temas abordado no presente documento, agradecemos que nos contacte para:
+
+<b>E-mail</b>
+marketing@fricon.pt
+
+<b>Carta</b>
+
+FRIGOCON – Indústria de Frio e Congelação, S.A. (FRICON)
+
+Rua das Calçadas, 568, 4480-492 Touguinha, Vila do Conde, Portugal]]>
+      </Terms>
+      <AcceptTerms>Read and accept the terms and conditions.</AcceptTerms>
+      <Button>Accept</Button>
+    </TermsOfService>
+  </TermsOfServiceArray>
+
+  <ObjectDisplayArray>
+    <ObjectDisplay language = "Portugues">
+      <Reseller>Revendedor</Reseller>
+      <Marketplace>Mercado</Marketplace>
+    </ObjectDisplay>
+    <ObjectDisplay language = "English">
+      <Reseller>Reseller</Reseller>
+      <Marketplace>Marketplace</Marketplace>
+    </ObjectDisplay>
+  </ObjectDisplayArray>
+
+  <LoginSystemArray>
+    <LoginSystem language ="Portugues">
+      <Title>Sistema Login</Title>
+      <Email>Email</Email>
+      <EnterEmail>Inserir email...</EnterEmail>
+      <Password>Palavra passe</Password>
+      <EnterPassword>Inserir palavra passe...</EnterPassword>
+      <ForgotPassword>Esqueci-me da palavra passe</ForgotPassword>
+      <Register>Criar conta</Register>
+      <Error>Nome do utilizador ou palavra pass invalidos!</Error>
+    </LoginSystem>
+    <LoginSystem language ="English">
+      <Title>Login System</Title>
+      <Email>Email</Email>
+      <EnterEmail>Insert email...</EnterEmail>
+      <Password>Password</Password>
+      <EnterPassword>Insert password...</EnterPassword>
+      <ForgotPassword>Forgot password</ForgotPassword>
+      <Register>Create new account</Register>
+      <Error>Username or password invalid!</Error>
+    </LoginSystem>
+  </LoginSystemArray>
+
+  <RegisterSystemArray>
+    <RegisterSystem language ="Portugues">
+      <Title>Registar nova conta</Title>
+      <FirstName>Primeiro Nome</FirstName>
+      <EnterFirstName>Inserir primeiro nome...</EnterFirstName>
+      <LastName>Último Nome</LastName>
+      <EnterLastName>Inserir último nome...</EnterLastName>
+      <SelectCountry>Selecionar pais</SelectCountry>
+      <Company>Empresa</Company>
+      <EnterCompany>Inserir empresa...</EnterCompany>
+      <Email>Email</Email>
+      <EnterEmail>Inserir email...</EnterEmail>
+      <Password>Palavra passe</Password>
+      <EnterPassword>Inserir palavra passe...</EnterPassword>
+      <Button>Registar</Button>
+    </RegisterSystem>
+    <RegisterSystem language ="English">
+      <Title>Register new account</Title>
+      <FirstName>First name</FirstName>
+      <EnterFirstName>Enter first name...</EnterFirstName>
+      <LastName>Last name</LastName>
+      <EnterLastName>Enter last name...</EnterLastName>
+      <SelectCountry>Select country</SelectCountry>
+      <Company>Company</Company>
+      <EnterCompany>Enter company...</EnterCompany>
+      <Email>Email</Email>
+      <EnterEmail>Enter email...</EnterEmail>
+      <Password>Password</Password>
+      <EnterPassword>Enter password...</EnterPassword>
+      <Button>Register</Button>
+    </RegisterSystem>
+  </RegisterSystemArray>
+
+  <ProfileMenuArray>
+    <ProfileMenu language ="Portugues">
+      <Title>Perfil</Title>
+      <ChangePassword>Alterar palavra passe</ChangePassword>
+      <EnterPassword>Inserir nova palavra passe...</EnterPassword>
+      <ChangeLanguage>Alterar idoma</ChangeLanguage>
+      <Button>Sair</Button>
+    </ProfileMenu>
+    <ProfileMenu language ="English">
+      <Title>Profile</Title>
+      <ChangePassword>Change password</ChangePassword>
+      <EnterPassword>Enter new password...</EnterPassword>
+      <ChangeLanguage>Change language</ChangeLanguage>
+      <Button>Leave</Button>
+    </ProfileMenu>
+  </ProfileMenuArray>
+
+  <ObjectDescriptionArray>
+    <ObjectDescription language ="Portugues">
+      <Details>Detalhes</Details>
+      <GeneralInfo>Info Geral</GeneralInfo>
+    </ObjectDescription>
+    <ObjectDescription language ="English">
+      <Details>Details</Details>
+      <GeneralInfo>General Info</GeneralInfo>
+    </ObjectDescription>
+  </ObjectDescriptionArray>
+
+</LanguageTexts>

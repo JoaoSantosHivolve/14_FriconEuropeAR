@@ -1,0 +1,29 @@
+<?xml version ="1.0" encoding="UTF-8"?>
+<CountriesData>
+  <CountriesArray>
+    <Country name ="Paises Continent Americano">
+      <Person>Fernando</Person>
+      <Link>http://fricon.force.com/fernandocosta</Link>
+    </Country>
+    <Country name ="Paises Asia e Oceania">
+      <Person>Nelson</Person>
+      <Link>http://fricon.force.com/nelsonmarques</Link>
+    </Country>
+    <Country name ="Paises Europa">
+      <Person>Marisa</Person>
+      <Link>http://fricon.force.com/marisamonteiro</Link>
+    </Country>
+    <Country name ="Países Africa">
+      <Person>Stephane</Person>
+      <Link>http://fricon.force.com/stephanecosta</Link>
+    </Country>
+    <Country name ="Portugal">
+      <Person>Ana</Person>
+      <Link>http://fricon.force.com/anamonteiro</Link>
+    </Country>
+    <Country name ="Espanha">
+      <Person>David</Person>
+      <Link>http://fricon.force.com/davidcasu</Link>
+    </Country>
+  </CountriesArray>
+</CountriesData>
